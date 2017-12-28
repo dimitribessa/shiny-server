@@ -3,7 +3,6 @@
 library('shiny')
 library('plotly')
 
-library('xlsx')         #para ler/criar arquivos xlsx
 library('xtable')       #Exportar Arquivos
 library('ggplot2')      #Gráficos (mais usado)
 library('psych')        #algumas funções de data.frame
