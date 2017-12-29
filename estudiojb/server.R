@@ -1,14 +1,5 @@
 #mapa versao 0.1
 
-library('shiny')
-library('plotly')
-library('dplyr')
-library('reshape2')
-library('stringr')
-
-load('data.RData')
-#options(encoding = 'UTF-8')
-
 shinyServer(function(input, output) {
   
   ds<- reactive({
