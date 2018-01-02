@@ -1,5 +1,5 @@
 #mapa versao 0.1
-source('data.R')
+source('dado.R')
 library('shiny')
 library('plotly')
 library('dplyr')
