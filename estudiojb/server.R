@@ -9,7 +9,7 @@ library('stringr')
 #treino <- read.xlsx('08nov2017.xlsx', sheetIndex = 3, encoding = 'UTF-8')
 
 #treino <- read.csv('~/data/data.csv', sep = ";", header = TRUE, row.names = NULL, encoding = 'UTF-8')
-load('data/data.RData')
+load('/data/data.RData')
 
 shinyServer(function(input, output) {
   
