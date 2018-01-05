@@ -1,5 +1,14 @@
 #mapa versao 0.1
 
+library('shiny')
+library('plotly')
+library('dplyr')
+library('reshape2')
+library('stringr')
+#setwd('D:\\Dimitri\\Docs 17-out-15\\Ju html\\Treino OnLine')
+#treino <- read.xlsx('08nov2017.xlsx', sheetIndex = 3, encoding = 'UTF-8')
+load('data.RData')
+
 # Use a fluid Bootstrap layout
 shinyUI ( fluidPage(    
   
@@ -15,7 +24,7 @@ shinyUI ( fluidPage(
       selectInput("treino", "Treino:", 
                   choices= unique(treino$Treino), selected=unique(treino$Treino)[1]),
       hr(),
-      helpText("Período: 27 de novembro a 8 de dezembro de 2017.")
+      helpText("Período: 02 a 12 de janeiro de 2018.")
     ),
     
       #Tabela com as informações
