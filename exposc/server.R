@@ -133,7 +133,7 @@ shinyServer(function(input, output, session) {
     oceancolor =  '#00001C'))
   })
   
- 
+ #plotando os gráficos...
   
    output$gplot   <- renderPlotly({
                     theme_set(theme_minimal())
@@ -169,7 +169,7 @@ shinyServer(function(input, output, session) {
   }))
    
    output$view <- renderTable({
-    ds()
+    dt1()
   })
   
    # Downloadable csv of selected dataset ----
