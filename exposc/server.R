@@ -10,7 +10,6 @@ library('reshape2')     #para remodular data.frames
 library('plyr')        #manipulação de dados - tydiverse
 library('dplyr')        #manipulação de dados - tydiverse
 library('stringr')      #funções de string  - tydiverse
-library('downloader')	  # downloads and then runs the source() function on scripts from github
 library('magrittr')     #para mudar nome de colunas
 
 library('maps') #carregar mapas padrao
@@ -21,7 +20,7 @@ library('rgdal') #leitra de mapas
 library('rworldmap') #leitra de mapas
 library('geosphere') #to beatifull arches
 
-load('data.RData')
+load('data.Rdata')
 #options(encoding = 'UTF-8')
 
 shinyServer(function(input, output, session) {
