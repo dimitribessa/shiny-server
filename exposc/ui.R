@@ -1,30 +1,5 @@
-#mapa versao 0.1
-
-library('shiny')
-library('plotly')
-
-library('xtable')       #Exportar Arquivos
-library('ggplot2')      #Gráficos (mais usado)
-library('psych')        #algumas funções de data.frame
-library('reshape2')     #para remodular data.frames
-library('plyr')        #manipulação de dados - tydiverse
-library('dplyr')        #manipulação de dados - tydiverse
-library('stringr')      #funções de string  - tydiverse
-library('downloader')	  # downloads and then runs the source() function on scripts from github
-library('magrittr')     #para mudar nome de colunas
-
-library('maps') #carregar mapas padrao
-library('maptools') #Para confecção de mapas
-library('ggmap') # Para confecção de mapas
-library('rgeos') #leitura de mapas
-library('rgdal') #leitra de mapas
-library('rworldmap') #leitra de mapas
-library('geosphere') #to beatifull arches
-
-load('data.RData')
-
 # Use a fluid Bootstrap layout
-shinyUI (  navbarPage("Exportações Catarinenses (2016)",
+shinyUI ( navbarPage("Exportações Catarinenses (2016)",
   tabPanel('Página em desenvolvimento',
   # Give the page a title
   titlePanel('Painel dinâmico das exportações'),
@@ -46,11 +21,11 @@ shinyUI (  navbarPage("Exportações Catarinenses (2016)",
       sliderInput("fob", "Valor das Exportações:",
                   min = min(export$VL_FOB), max = max(export$VL_FOB),
                   value = c(min(export$VL_FOB),max(export$VL_FOB)), step = 100),
-                   helpText("Fonte: MDIC 2017")),
-      
-   column(3, 
-      downloadButton("downloadData", "Download"))
-    ),   
+                   helpText("Fonte: MDIC 2017"))
+   ),   
+  # column(3, 
+   #   downloadButton("downloadData", "Download"))
+   # ),   
     hr(),      
     # Create a spot for the barplot
     fluidRow(tabsetPanel( tabPanel('Mapa',plotlyOutput('trendPlot')),
@@ -60,8 +35,8 @@ shinyUI (  navbarPage("Exportações Catarinenses (2016)",
       column(6,plotlyOutput("gplot")),
       column(6,plotlyOutput('gplotII'))),
     fluidRow(5,plotlyOutput('gplotIII')),
-    fluidRow( h4("Quadro Resumo:"), tableOutput("view"))
-    ),
+    fluidRow( column(4,h4("Quadro Resumo:"), tableOutput("view")),column(8,plotlyOutput('ggplotIV')))
+    ), 
    tabPanel('Contato',
    fluidRow(column(3,'Dimitri Bessa',tags$em('(Pesquisador associado pela Secretaria de Estado do Planejamento de Santa Catarina (dimitri@spg.sc.gov.br));'))),
    br(),
