@@ -78,6 +78,13 @@ shinyServer(function(input, output, session) {
                     graf <-  aggregate(as.numeric(VL_FOB) ~ NOME, data = data1, FUN = sum, na.rm= T) %>% setNames(., c('Município', 'Soma_expo'))%>% arrange(., desc(Soma_expo)) %>% mutate(., Município =  Município, Ranking = c(1:nrow(.)), Prop = (Soma_expo/sum(Soma_expo, na.rm = T)*100)%>% round(2))
                     graf})
 
+ #dados para gráfico barras com dados mensais   (08-jan-18, 18:18h)
+  dg5 <- reactive({data1 <- ds2()
+                    graf <-  aggregate(as.numeric(VL_FOB) ~ CO_MES, data = data1, FUN = sum, na.rm= T) %>% setNames(., c('Cod_mes', 'Soma_expo')) %>%
+                     mutate(., Mês = as.factor(c('Jan','Fev','Mar','Abr','Maio','Jun','Jul','Ago','Set','Out','Nov','Dez')),
+                              Cod_mes = factor(Cod_mes))
+                     graf })
+
 #tabela resumo dos dados (26-dez-17, 17:42h)   
      dt1 <- reactive({tabprop <- export
                       if(input$produto != 'Tudo'){tabprop <- tabprop[tabprop$Prod.SH4 == input$produto,]}
@@ -132,7 +139,7 @@ shinyServer(function(input, output, session) {
     oceancolor =  '#00001C'))
   })
   
- #plotando os gráficos...
+ 
   
    output$gplot   <- renderPlotly({
                     theme_set(theme_minimal())
@@ -168,7 +175,16 @@ shinyServer(function(input, output, session) {
   }))
    
    output$view <- renderTable({
-    dt1()
+    ds()
+  })
+  
+   #Gráfico Barra mensal
+  output$ggplotIV <- renderPlotly({
+                     theme_set(theme_minimal())
+                     data1 <- dg5()
+                      graf2 <- ggplot(data1, aes(x = Cod_mes, y = Soma_expo)) + geom_col(aes(text = paste('Mês: ',Mês,'<br>Soma_expo (US$):', Soma_expo)),alpha = .7, fill = '#2b8cbe')  + ylab('')  +geom_smooth(aes(y = Soma_expo, x = 1:12), method= 'lm')
+
+             ggplotly(graf2) %>%layout(title = 'Valor Exportações por Mês', dragmode = 'pan')
   })
   
    # Downloadable csv of selected dataset ----
