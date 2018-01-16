@@ -24,7 +24,7 @@ shinyUI ( fluidPage(
       selectInput("treino", "Treino:", 
                   choices= unique(treino$Treino), selected=unique(treino$Treino)[1]),
       hr(),
-      helpText("Período: 02 a 12 de janeiro de 2018.")
+      helpText("Período: 15 a 26 de janeiro de 2018.")
     ),
     
       #Tabela com as informações
