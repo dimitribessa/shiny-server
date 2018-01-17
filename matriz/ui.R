@@ -7,8 +7,8 @@ library('igraph')
 library('intergraph')
 library('ggnetwork')
 library('ggplot2')
-
-load('rdata.RData')
+library('networkD3')
+load('data.RData')
 # Use a fluid Bootstrap layout
 
 # Use a fluid Bootstrap layout
@@ -17,7 +17,7 @@ shinyUI ( fluidPage(
   # Give the page a title
   titlePanel('Gerador de Impacto',),        
   tabsetPanel(type = 'tabs',
-              tabPanel('Grafo',plotOutput("rede")),
+              tabPanel('Grafo',forceNetworkOutput("rede")),
               tabPanel('Matriz',DT::dataTableOutput("table"))),
   hr(), 
   fluidRow(
