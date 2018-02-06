@@ -1,8 +1,11 @@
-# Use a fluid Bootstrap layout
-shinyUI ( navbarPage("Exportações Catarinenses (2016)",
+#editado em 06-fev-2018 
+shinyUI (   navbarPage("Exportações/Importações Catarinenses (2016)",
   tabPanel('Página em desenvolvimento',
-  # Give the page a title
-  titlePanel('Painel dinâmico das exportações'),
+  # Give the page a title  
+  titlePanel('Painel dinâmico'),
+   fluidRow(
+   selectInput("xm", "Selecionar opção:", 
+                  choices= c('Exportação','Importação'), selected="Exportação")),
    fluidRow( 
    column(2, 
     selectInput("municipio", "Municipio:", 
@@ -12,13 +15,13 @@ shinyUI ( navbarPage("Exportações Catarinenses (2016)",
     selectInput('produto',"Produto SH2:",
                   choices = c('Tudo',unique(export$Prod.SH4)))) ,
    column(2,   
-      selectInput('pais',"País Destino:",
+      selectInput('pais',"País Origem/Destino:",
                   choices = c('Tudo', unique((export$NO_PAIS))), selected = 'Tudo')),
    column(2,
       selectInput('porto',"Município Porto:",
                   choices = c('Tudo', unique((export$NO_MUN_MIN))), selected = 'Tudo')),
    column(4,
-      sliderInput("fob", "Valor das Exportações:",
+      sliderInput("fob", "Valor:",
                   min = min(export$VL_FOB), max = max(export$VL_FOB),
                   value = c(min(export$VL_FOB),max(export$VL_FOB)), step = 100),
                    helpText("Fonte: MDIC 2017"))
@@ -32,9 +35,9 @@ shinyUI ( navbarPage("Exportações Catarinenses (2016)",
                          tabPanel('Tabela', DT::dataTableOutput("table"))
              )),
     fluidRow(
-      column(6,plotlyOutput("gplot")),
-      column(6,plotlyOutput('gplotII'))),
-    fluidRow(5,plotlyOutput('gplotIII')),
+      column(6,checkboxInput("checkporto", label = h4("Volume"), value = FALSE),plotlyOutput("gplot")),
+      column(6,checkboxInput("checkpais", label = h4("Volume"), value = FALSE),plotlyOutput('gplotII'))),
+    fluidRow(checkboxInput("checkproduto", label = h4("Volume"), value = FALSE),plotlyOutput('gplotIII')),
     fluidRow( column(4,h4("Quadro Resumo:"), tableOutput("view")),column(8,plotlyOutput('ggplotIV')))
     ), 
    tabPanel('Contato',
