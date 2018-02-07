@@ -25,7 +25,13 @@ load('data.Rdata')
 
 shinyServer(function(input, output, session) {
   
-  ds <- reactive({data1 <- export[complete.cases(export),] %>% .[.$NOME == input$municipio,]              
+     dado <- reactive({if(input$xm == 'Exportação'){dadoi <- export}
+                     if(input$xm == 'Importação'){dadoi <- import}
+                     dadoi})
+   
+   
+   ds <- reactive({dados <- dado()
+                  data1 <- dados[complete.cases(dados),] %>% .[.$NOME == input$municipio,]              
                  if(input$pais != 'Tudo' ){data1   <- data1[data1$NO_PAIS    == input$pais,]}
                  if(input$porto != 'Tudo'){data1   <- data1[data1$NO_MUN_MIN == input$porto,]}
                  if(input$produto != 'Tudo'){data1 <- data1[data1$Prod.SH4 == input$produto,]}                                 
@@ -39,40 +45,43 @@ shinyServer(function(input, output, session) {
     hei4<-input$fob[2]
     #hei5<-input$municipio
     hei6<-input$produto
-    dado<-ds()
+    dados<-ds()
 
-    choice1<-c('Tudo', unique((dado$NO_PAIS)))
-    choice2<-c('Tudo',unique((dado$NO_MUN_MIN)))
+    choice1<-c('Tudo', unique((dados$NO_PAIS)))
+    choice2<-c('Tudo',unique((dados$NO_MUN_MIN)))
    # choice3<-c(unique(dado$NOME))
-    choice4<-c('Tudo',unique(dado$Prod.SH4))
+    choice4<-c('Tudo',unique(dados$Prod.SH4))
 
     updateSelectInput(session,"pais",choices=choice1,selected=hei1)
     updateSelectInput(session,"porto",choices=choice2,selected=hei2)
     #updateSelectInput(session,"municipio",choices=choice3,selected=hei5)
     updateSelectInput(session,"produto",choices=choice4,selected=hei6)
-    updateSliderInput(session,"fob",value = c(hei3,hei4), min = min(dado$VL_FOB), max = max(dado$VL_FOB))
-
-   #delimitador do tamanho das barras
-
-     })
-            
+    updateSliderInput(session,"fob",value = c(hei3,hei4), min = min(dados$VL_FOB), max = max(dados$VL_FOB))
+    })
+  
     ds2<- reactive({data1 <- ds()   
                    data1 <- data1[data1$VL_FOB >= input$fob[1] & data1$VL_FOB <= input$fob[2],]               
                  data1}) 
 
    #para os dados de gráfico barra
     #gráfico ranking
-    dg <- reactive({data1 <- ds2()
-                    graf <- aggregate(as.numeric(VL_FOB) ~ NO_MUN_MIN, data = data1, FUN = sum, na.rm= T) %>% setNames(., c('Porto', 'Soma_expo'))%>% arrange(., desc(Soma_expo)) %>% mutate(., Porto = Porto, Ranking = c(1:nrow(.)), Prop = (Soma_expo/sum(Soma_expo, na.rm = T)*100)%>% round(2))
-                    graf})
+   dg <- reactive({data1 <- ds2()
+                    if(input$checkporto){graf <-  aggregate(as.numeric(KG_LIQUIDO) ~NO_MUN_MIN, data = data1, FUN = sum, na.rm= T)}else{
+                    graf <-  aggregate(as.numeric(VL_FOB) ~ NO_MUN_MIN, data = data1, FUN = sum, na.rm= T)}
+                    graf  %>% setNames(., c('Porto', 'Soma_expo'))%>% arrange(., desc(Soma_expo)) %>% mutate(., Porto = Porto, Ranking = c(1:nrow(.)), Prop = (Soma_expo/sum(Soma_expo, na.rm = T)*100)%>% round(2))
+                    })
                     
     dg2 <- reactive({data1 <- ds2()
-                    graf <-  aggregate(as.numeric(VL_FOB) ~ NO_PAIS, data = data1, FUN = sum, na.rm= T) %>% setNames(., c('País', 'Soma_expo'))%>% arrange(., desc(Soma_expo)) %>% mutate(., País =  País, Ranking = c(1:nrow(.)), Prop = (Soma_expo/sum(Soma_expo, na.rm = T)*100)%>% round(2))
-                    graf})
+                    if(input$checkpais){graf <-  aggregate(as.numeric(KG_LIQUIDO) ~ NO_PAIS, data = data1, FUN = sum, na.rm= T)}else{
+                    graf <-  aggregate(as.numeric(VL_FOB) ~ NO_PAIS, data = data1, FUN = sum, na.rm= T)}
+                    graf  %>% setNames(., c('País', 'Soma_expo'))%>% arrange(., desc(Soma_expo)) %>% mutate(., País =  País, Ranking = c(1:nrow(.)), Prop = (Soma_expo/sum(Soma_expo, na.rm = T)*100)%>% round(2))
+                    })
     
     dg3 <- reactive({data1 <- ds2()
-                    graf <-  aggregate(as.numeric(VL_FOB) ~ Prod.SH4, data = data1, FUN = sum, na.rm= T) %>% setNames(., c('Produto.SH2', 'Soma_expo'))%>% arrange(., desc(Soma_expo)) %>% mutate(., Produto.SH2 =  paste0(substr(Produto.SH2,1,25),'(...)'), Ranking = c(1:nrow(.)), Prop = (Soma_expo/sum(Soma_expo, na.rm = T)*100)%>% round(2))
-                    graf})
+                    if(input$checkproduto){graf <-  aggregate(as.numeric(KG_LIQUIDO) ~Prod.SH4, data = data1, FUN = sum, na.rm= T)}else{
+                    graf <-  aggregate(as.numeric(VL_FOB) ~ Prod.SH4, data = data1, FUN = sum, na.rm= T)}
+                    graf %>% setNames(., c('Produto.SH2', 'Soma_expo'))%>% arrange(., desc(Soma_expo)) %>% mutate(., Produto.SH2 =  paste0(substr(Produto.SH2,1,25),'(...)'), Ranking = c(1:nrow(.)), Prop = (Soma_expo/sum(Soma_expo, na.rm = T)*100)%>% round(2))
+                    })
     
   dg4 <- reactive({data1 <- ds2()
                     graf <-  aggregate(as.numeric(VL_FOB) ~ NOME, data = data1, FUN = sum, na.rm= T) %>% setNames(., c('Município', 'Soma_expo'))%>% arrange(., desc(Soma_expo)) %>% mutate(., Município =  Município, Ranking = c(1:nrow(.)), Prop = (Soma_expo/sum(Soma_expo, na.rm = T)*100)%>% round(2))
@@ -144,28 +153,39 @@ shinyServer(function(input, output, session) {
    output$gplot   <- renderPlotly({
                     theme_set(theme_minimal())
                     data1 <- dg()
-                    graf1 <- ggplot(data1, aes(x = reorder(Porto,Soma_expo), y = Soma_expo, group = Porto)) + geom_col(aes(text = paste('Porto: ',Porto,'<br>Soma_expo (US$):', Soma_expo, '<br>Proporção:', Prop,'%', '<br>Ranking: ',Ranking)),alpha = .7, fill = '#a6bddb',width = if(input$porto == 'Tudo'){NULL}else{.5})+  xlab('') + ylab('') + coord_flip() 
+                    graf1 <- ggplot(data1, aes(x = reorder(Porto,Soma_expo), y = Soma_expo, group = Porto)) + 
+                              geom_col(aes(text = paste('Porto: ',Porto,if(input$porto){'<br>Volume (T):'}else{'<br>Soma_expo (US$):'}, 
+                                                        Soma_expo, '<br>Proporção:', Prop,'%', '<br>Ranking: ',Ranking)),
+                                                        alpha = .7, fill = '#a6bddb',width = if(input$porto == 'Tudo'){NULL}else{.5}) +  
+                              xlab('') + ylab('') + coord_flip() 
  
-                    ggplotly(graf1, tooltip = 'text') %>% layout(title = 'Ranking dos Portos por Exportação',
+                     ggplotly(graf1, tooltip = 'text') %>% layout(title = paste('Ranking dos Portos por ',input$xm),
                     dragmode = 'pan')})
    
    output$gplotII <- renderPlotly({                 
                      theme_set(theme_minimal())
                      data1 <- dg2()
                       graf2 <- ggplot(data1, aes(x = reorder(País,Soma_expo), y = Soma_expo, group = País)) +
-                       geom_col(aes(text = paste('País: ',País,'<br>Soma_expo (US$):', Soma_expo, '<br>Proporção:', Prop,'%', '<br>Ranking: ',Ranking)), alpha = .7, fill = '#de2d26', width = if(input$pais == 'Tudo'){NULL}else{.5}) +  xlab('') + ylab('') +
+                       geom_col(aes(text = paste('País: ',País,if(input$checkpais){'<br>Volume (T):'}else{'<br>Soma_expo (US$):'},
+                                                 Soma_expo, '<br>Proporção:', Prop,'%', '<br>Ranking: ',Ranking)), alpha = .7, 
+                                                  fill = '#de2d26', width = if(input$pais == 'Tudo'){NULL}else{.5}) +  xlab('') + ylab('') +
                        coord_flip() +  theme(axis.text.x = element_text(hjust = 1, size = 1))
                        
-                      ggplotly(graf2, tooltip = 'text') %>%layout(title = 'Ranking dos países destinos das exportações')})
+                      ggplotly(graf2, tooltip = 'text') %>% 
+                      layout(title = paste0(if(input$xm == 'Exportação'){'Ranking dos países destinos das exportações'}else{'Ranking dos países de origem das importações'}))
+                       })
                       
       output$gplotIII <- renderPlotly({                 
                      theme_set(theme_minimal())
                      data1 <- dg3()
                       graf2 <- ggplot(data1, aes(x = reorder(Produto.SH2,Soma_expo), y = Soma_expo, group = Produto.SH2)) +
-                       geom_col(aes(text = paste('Produto: ',Produto.SH2,'<br>Soma_expo:', Soma_expo, '<br>Proporção:', Prop,'%', '<br>Ranking: ',Ranking)), alpha = .7, fill = '#de2d26', width = if(input$produto == 'Tudo'){NULL}else{.5}) +  xlab('') + ylab('') +
-                       coord_flip() +  theme(axis.text.x = element_text(hjust = 1, size = 1))
+                       geom_col(aes(text = paste('Produto: ',Produto.SH2,if(input$checkproduto){'<br>Volume (T):'}else{'<br>Soma_expo (US$):'}, 
+                                                 Soma_expo, ', Soma_expo, '<br>Proporção:', Prop,'%', '<br>Ranking: ',Ranking)), 
+                                                 alpha = .7, fill = '#de2d26', width = if(input$produto == 'Tudo'){NULL}else{.5}) +  
+                                                 xlab('') + ylab('') +
+                                                 coord_flip() +  theme(axis.text.x = element_text(hjust = 1, size = 1))
                        
-                      ggplotly(graf2, tooltip = 'text') %>%layout(title = 'Ranking dos produtos exportados')})
+               ggplotly(graf2, tooltip = 'text') %>% layout(title = paste0('Ranking dos produtos (',input$xm,')'))
                       
      # Filter data based on selections
   output$table <- DT::renderDataTable(DT::datatable({
