@@ -139,7 +139,7 @@ shinyServer(function(input, output, session) {
     y = ~y.dest, yend = ~y.country, 
     alpha = 0.3, size = I(1), name = 'Porto>>País') %>%   
      layout(
-    title = 'Rede de Exportações',
+    title = paste('Rede de',input$xm),
     geo = list(
     showocean = TRUE,
     showland = TRUE,
@@ -154,7 +154,7 @@ shinyServer(function(input, output, session) {
                     theme_set(theme_minimal())
                     data1 <- dg()
                     graf1 <- ggplot(data1, aes(x = reorder(Porto,Soma_expo), y = Soma_expo, group = Porto)) + 
-                              geom_col(aes(text = paste('Porto: ',Porto,if(input$porto){'<br>Volume (T):'}else{'<br>Soma_expo (US$):'}, 
+                              geom_col(aes(text = paste('Porto: ',Porto,if(input$checkporto){'<br>Volume (T):'}else{'<br>Soma_expo (US$):'}, 
                                                         Soma_expo, '<br>Proporção:', Prop,'%', '<br>Ranking: ',Ranking)),
                                                         alpha = .7, fill = '#a6bddb',width = if(input$porto == 'Tudo'){NULL}else{.5}) +  
                               xlab('') + ylab('') + coord_flip() 
