@@ -1,0 +1,47 @@
+/*layout shinyapp agribusiness Epagri*/
+/*---------------------------*/
+/*@author: Dimitri;-----------*/
+/*version: 0.1---------------*/
+
+
+/**/
+body { 
+	background: url('epagri_logo.png') 45px,
+	linear-gradient(50deg,#fee0d2,#a1d99b); /*--backgrounds compostos--*/
+	background-attachment: fixed; /*background travado*/	
+	font-family: 'Helvetica' 'arial' 'serif';
+	overflow-x: hidden;
+	background-size: contain; /*define imagem de fundo*/
+}
+
+html body {
+	height: 100%;
+}
+
+
+/* -- barra de navegação -- */
+.img-logo {
+	height: 40px;
+	width: 132px;
+	background: url('epagri_logo.png') no-repeat; /*imagem repete*/
+	display: block;
+	background-size: contain; /*define imagem de fundo*/
+	color: transparent;
+	}
+
+ /*Centralizando o logo*/
+.navbar-brand {
+	padding: 5px 0 50px 55px;
+}
+
+
+/* -- ids --------------- */
+#ferramenta {
+	background-color: rgba(255,255,255,0.8);
+	padding: 15px;
+}
+
+
+
+
+
