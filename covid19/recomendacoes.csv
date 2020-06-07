@@ -1,20 +1,5 @@
 Para quem;Grau;Recomendações
-Sociedade;Moderado;Ficar em casa a maior parte do tempo.
-Sociedade;Moderado;Não participar ou frequentar locais em que possa haver aglomeração de pessoas.
-Sociedade;Moderado;Evitar viajar e realizar comemorações com a presença de pessoas que não residem em sua casa.
-Sociedade;Moderado; Higienizar as mãos com frequência
-Sociedade;Moderado;Quando possível adiar consultas, exames médicos, cirurgias e outros procedimentos que possam provocar dano a saúde e a ida a locais onde há pessoas potencialmente doentes.
-Sociedade;Moderado;Priorizar serviços de delivery.
-Sociedade;Moderado; Ingerir bastante água e se alimentar de forma saudável.
-Sociedade;Moderado; Utilizar máscara em espaços públicos e espaços privados compartilhados.
-Sociedade;Moderado;Manter distancia de 1,5 metros de outras pessoas.
-Sociedade;Moderado;Adotar como prática a etiqueta da tosse.
-Gestão pública;Alto;Adotar o trabalho remoto na administração pública quando possível.
-Gestão pública;Alto;Veicular informação verdadeiras sobre prevenção e cuidados relacionados ao COVID19.
-Gestão pública;Alto;Respeitando normativas estaduais, permitir com adaptações as atividades comerciais, eventos esportivos desde que não haja público  e outras atividades de forma que atendam as normas de distanciamento social, sanitização de ambientes e higienização
-Gestão pública;Alto;Suspender aulas presenciais na rede pública e privada e o  transporte coletivo municipal e intermunicipal 
-Gestão pública;Grave;Adotar o trabalho remoto na administração pública quando possível.
-Estabelecimentos;Alto;Priorizar o trabalho remoto principalmente para os trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes e imunodeprimidos. 
+Estabelecimentos;Alto;Priorizar o trabalho remoto principalmente para os trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes, puérperas e imunodeprimidos. 
 Estabelecimentos;Alto;Adotar regimes de escala, rodízio e/ou novos turnos de trabalho com redução do número de trabalhadores presentes ao mesmo tempo no ambiente.
 Estabelecimentos;Alto;Uso de máscaras pelos funcinários  durante todo o período de funcionamento.
 Estabelecimentos;Alto;Disponibilizar pias com água e sabão ou álcool 70% para higienização das mãos de funcionários e clientes.
@@ -22,10 +7,54 @@ Estabelecimentos;Alto;Higienizar com frequencia equipamentos e utensílios com ál
 Estabelecimentos;Alto;Intensificar higienização dos ambientes com preparações antissépticas ou sanitizantes de efeito similar.
 Estabelecimentos;Alto;Priorizar a ventilação natural dos ambientes.
 Estabelecimentos;Alto;Adaptar seu funcionamento para manter o distanciamento de 1,5m entre as pessoas, sanitização de ambientes e higienização.
-Saúde Pública - Unidades de Pronto Atendimento;Moderado;Fluxo de atendimento organizado na unidade de saúde de forma a diminuir contato de pessoas suspeitas ou confirmadas para COVID-19 de pessoas não doentes.
-Saúde Pública - Unidades de Pronto Atendimento;Moderado;Treinar equipe para paramentação e desparamentação adequada e cuidados com proteção individual.
-Saúde Pública - Unidades de Pronto Atendimento;Moderado;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
-Saúde Pública - Unidades de Pronto Atendimento;Moderado;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
+Estabelecimentos;Alto;Afastar colaboradores confirmados ou suspeitos de COVID19.
+Estabelecimentos;Alto;Apresentar informativo visível das normas de funcionamento do local para a prevenção de contaminação com COVID19.
+Estabelecimentos;Alto;Monitorar temperatura corporal de funcionários e clientes e evitar a permanência no ambiente de pessoas com temperatura acima de 37,5º.
+Estabelecimentos;Alto;Procurar testar regularmente colaboradores para COVID19.
+Estabelecimentos;Alto;Adequar seu o funcionamento com redução da capacidade.
+Estabelecimentos;Grave;Afastar colaboradores confirmados ou suspeitos de COVID19.
+Estabelecimentos;Grave;Apresentar informativo visível das normas de funcionamento do local para a prevenção de contaminação com COVID19.
+Estabelecimentos;Grave;Monitorar temperatura corporal de funcionários e clientes e evitar a permanência no ambiente de pessoas com temperatura acima de 37,5º.
+Estabelecimentos;Grave;Procurar testar regularmente colaboradores.
+Estabelecimentos;Grave;Adequar seu o  funcionamento com 50% da capacidade.
+Estabelecimentos;Grave;Priorizar o trabalho remoto principalmente para os trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes, puérperas e imunodeprimidos. 
+Estabelecimentos;Grave;Adotar regimes de escala, rodízio e/ou novos turnos de trabalho com redução do número de trabalhadores presentes ao mesmo tempo no ambiente.
+Estabelecimentos;Grave;Uso de máscaras pelos funcinários  durante todo o período de funcionamento.
+Estabelecimentos;Grave;Disponibilizar pias com água e sabão ou álcool 70% para higienização das mãos de funcionários e clientes.
+Estabelecimentos;Grave;Higienizar com frequencia equipamentos e utensílios com álcool 70% ou preparações antissépticas respeitando as características do produto.
+Estabelecimentos;Grave;Intensificar higienização dos ambientes com preparações antissépticas ou sanitizantes de efeito similar.
+Estabelecimentos;Grave;Priorizar a ventilação natural dos ambientes.
+Estabelecimentos;Grave;Adaptar seu funcionamento para manter o distanciamento de 1,5m entre as pessoas, sanitização de ambientes e higienização.
+Estabelecimentos;Gravíssimo;Afastar colaboradores confirmados ou suspeitos de COVID19.
+Estabelecimentos;Gravíssimo;Apresentar informativo visível das normas de funcionamento do local para a prevenção de contaminação com COVID19.
+Estabelecimentos;Gravíssimo;Monitorar temperatura corporal de funcionários e clientes e evitar a permanência no ambiente de pessoas com temperatura acima de 37,5º.
+Estabelecimentos;Gravíssimo;Procurar testar regularmente colaboradores.
+Estabelecimentos;Gravíssimo;Adequar o funcionamento de atividades essenciais com a menor quantidade de pessoas possível.
+Estabelecimentos;Gravíssimo;Afastar trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes e imunodeprimidos. 
+Estabelecimentos;Gravíssimo;Adotar regimes de escala, rodízio e/ou novos turnos de trabalho com redução do número de trabalhadores presentes ao mesmo tempo no ambiente de atividades essenciais.
+Estabelecimentos;Gravíssimo;Uso de máscaras pelos funcinários de atividades essenciais durante todo o período de funcionamento.
+Estabelecimentos;Gravíssimo;Disponibilizar pias com água e sabão ou álcool 70% para higienização das mãos de funcionários e clientes nas atividades essenciais.
+Estabelecimentos;Gravíssimo;Higienizar com frequencia equipamentos e utensílios com álcool 70% ou preparações antissépticas respeitando as características do produto nas atividades essenciais.
+Estabelecimentos;Gravíssimo;Intensificar higienização dos ambientes com preparações antissépticas ou sanitizantes de efeito similar nas atividades essenciais.
+Estabelecimentos;Gravíssimo;Priorizar a ventilação natural dos ambientes nas atividades essenciais.
+Estabelecimentos;Gravíssimo;Adaptar seu funcionamento para manter o distanciamento de 1,5m entre as pessoas, sanitização de ambientes e higienização.
+Estabelecimentos;Moderado;Priorizar o trabalho remoto principalmente para os trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes, puérperas e imunodeprimidos. 
+Estabelecimentos;Moderado;Adotar regimes de escala, rodízio e/ou novos turnos de trabalho com redução do número de trabalhadores presentes ao mesmo tempo no ambiente.
+Estabelecimentos;Moderado;Uso de máscaras pelos funcinários  durante todo o período de funcionamento.
+Estabelecimentos;Moderado;Disponibilizar pias com água e sabão ou álcool 70% para higienização das mãos de funcionários e clientes.
+Estabelecimentos;Moderado;Higienizar com frequencia equipamentos e utensílios com álcool 70% ou preparações antissépticas respeitando as características do produto.
+Estabelecimentos;Moderado;Intensificar higienização dos ambientes com preparações antissépticas ou sanitizantes de efeito similar.
+Estabelecimentos;Moderado;Priorizar a ventilação natural dos ambientes.
+Estabelecimentos;Moderado;Adaptar seu funcionamento para manter o distanciamento de 1,5m entre as pessoas, sanitização de ambientes e higienização.
+Estabelecimentos;Moderado;Afastar colaboradores confirmados ou suspeitos de COVID19.
+Estabelecimentos;Moderado;Apresentar informativo visível das normas de funcionamento do local para a prevenção de contaminação com COVID19.
+Estabelecimentos;Moderado;Monitorar temperatura corporal de funcionários e clientes e evitar a permanência no ambiente de pessoas com temperatura acima de 37,5º.
+Estabelecimentos;Moderado;Procurar testar regularmente colaboradores.
+Estabelecimentos;Moderado;Adequar seu o funcionamento aos cuidados relacionados à COVID19
+Gestão pública;Alto;Desestimular e usar de meios para diminuir qualquer atividade que acarrete em aglomeração de pessoas.
+Gestão pública;Alto;Fiscalizar os estabelecimentos quanto ao cumprimento de medidas e diretrizes para adequação das atividades de modo a evitar a disseminação do COVID19.
+Gestão pública;Alto;Avaliar o risco x benefício da atividade para autorizar o funcionamento no seu território.
+Gestão pública;Alto;Adotar critérios técnico-científicos para autorizar ou suspender atividades que acarretem em incremento do risco sanitário à sua população. 
 Saúde Pública - Atenção Básica;Moderado;Dispor de atendimento para a população por telefone ou sistema on-line para orientar quanto ao melhor local para atendimento de acordo com as queixas das pessoas.
 Saúde Pública - Atenção Básica;Moderado;Monitorar as pessoas com sintomas respiratórios em tratamento domiciliar, a cada 48h.
 Saúde Pública - Atenção Básica;Moderado;Fluxo de atendimento na unidade de saúde organizado de forma a diminuir contato de pessoas suspeitas ou confirmadas para COVID-19 de pessoas não doentes.
@@ -36,36 +65,6 @@ Saúde Pública - Atenção Básica;Moderado;Treinar equipe para paramentação e despa
 Saúde Pública - Atenção Básica;Moderado;Realizar ações de educação em saúde para população local voltada para prevenção da transmissão da COVID-19.
 Saúde Pública - Atenção Básica;Moderado;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
 Saúde Pública - Atenção Básica;Moderado;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
-Saúde Pública - Hospitais;Moderado;Organizar os Serviço de Urgência e Emergência com fluxo diferenciado para atendimento de pessoas suspeitas e/ou confirmadas para COVID-19.
-Saúde Pública - Hospitais;Moderado;Considerar a PORTARIA SES Nº 342 DE 20/05/2020 para organizar os procedimentos cirúrgicos eletivos.
-Saúde Pública - Hospitais;Moderado;Suspender visitas hospitalares.
-Saúde Pública - Hospitais;Moderado;Realizar procedimentos cirúrgicos eletivos de média complexidade no quantitativo de 50% da capacidade prevista no plano operativo da Unidade Hospitalar.
-Saúde Pública - Hospitais;Moderado;Treinar equipe para paramentação e desparamentação adequada e cuidados com proteção individual.
-Saúde Pública - Hospitais;Moderado;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
-Saúde Pública - Hospitais;Moderado;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
-Saúde Pública - Vigilância Epidemiológica;Moderado;Realizar busca ativa de casos suspeitos
-Saúde Pública - Vigilância Epidemiológica;Moderado;Realizar testagem dos casos supeitos de acordo com Nota Técnica vigente
-Saúde Pública - Vigilância Epidemiológica;Moderado;Promover o isolamento de casos suspeitos e contatos
-Saúde Pública - Vigilância Epidemiológica;Moderado;Promover junto ao Município a Notificação de casos e de óbitos, conforme portaria Ministerial de notificação compulsória
-Saúde Pública - Vigilância Sanitária;Moderado;Realizar inpeções sanitárias com cunho educativo e orientar a adaptação dos espaços para atender à necessidade de distanciamento, sanitização e higienização.
-Sociedade;Alto;Ficar em casa a maior parte do tempo.
-Sociedade;Alto;Não participar ou frequentar locais em que possa haver aglomeração de pessoas.
-Sociedade;Alto;Evitar viajar e realizar comemorações com a presença de pessoas que não residem em sua casa.
-Sociedade;Alto; Higienizar as mãos com frequência
-Sociedade;Alto;Quando possível adiar consultas, exames médicos, cirurgias e outros procedimentos que possam provocar dano a saúde e a ida a locais onde há pessoas potencialmente doentes.
-Sociedade;Alto;Priorizar serviços de delivery.
-Sociedade;Alto; Ingerir bastante água e se alimentar de forma saudável.
-Sociedade;Alto; Utilizar máscara em espaços públicos e espaços privados compartilhados.
-Sociedade;Alto;Manter distancia de 1,5 metros de outras pessoas.
-Sociedade;Alto;Adotar como prática a etiqueta da tosse.
-Estabelecimentos;Alto;Afastar colaboradores confirmados ou suspeitos de COVID19.
-Estabelecimentos;Alto;Apresentar informativo visível das normas de funcionamento do local para a prevenção de contaminação com COVID19.
-Estabelecimentos;Alto;Monitorar temperatura corporal de funcionários e clientes e evitar a permanência no ambiente de pessoas com temperatura acima de 37,5º.
-Estabelecimentos;Alto;Procurar testar regularmente colaboradores para COVID19.
-Estabelecimentos;Alto;Adequar seu o funcionamento com redução da capacidade.
-Estabelecimentos;Grave;Afastar colaboradores confirmados ou suspeitos de COVID19.
-Estabelecimentos;Grave;Apresentar informativo visível das normas de funcionamento do local para a prevenção de contaminação com COVID19.
-Estabelecimentos;Grave;Monitorar temperatura corporal de funcionários e clientes e evitar a permanência no ambiente de pessoas com temperatura acima de 37,5º.
 Saúde Pública - Atenção Básica;Alto;Dispor de atendimento para a população por telefone ou sistema on-line para orientar quanto ao melhor local para atendimento de acordo com as queixas das pessoas.
 Saúde Pública - Atenção Básica;Alto;Monitorar as pessoas com sintomas respiratórios em tratamento domiciliar, a cada 48h.
 Saúde Pública - Atenção Básica;Alto;Fluxo de atendimento na unidade de saúde organizado de forma a diminuir contato de pessoas suspeitas ou confirmadas para COVID-19 de pessoas não doentes.
@@ -96,68 +95,17 @@ Saúde Pública - Atenção Básica;Gravíssimo;Treinar equipe para paramentação e des
 Saúde Pública - Atenção Básica;Gravíssimo;Realizar ações de educação em saúde para população local voltada para prevenção da transmissão da COVID-19.
 Saúde Pública - Atenção Básica;Gravíssimo;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
 Saúde Pública - Atenção Básica;Gravíssimo;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
-Sociedade;Grave;Ficar em casa a maior parte do tempo.
-Sociedade;Grave;Não participar ou frequentar locais em que possa haver aglomeração de pessoas.
-Sociedade;Grave;Evitar viajar e realizar comemorações com a presença de pessoas que não residem em sua casa.
-Sociedade;Grave; Higienizar as mãos com frequência
-Sociedade;Grave;Quando possível adiar consultas, exames médicos, cirurgias e outros procedimentos que possam provocar dano a saúde e a ida a locais onde há pessoas potencialmente doentes.
-Sociedade;Grave;Priorizar serviços de delivery.
-Sociedade;Grave;Ingerir bastante água e se alimentar de forma saudável.
-Sociedade;Grave;Utilizar máscara em espaços públicos e espaços privados compartilhados.
-Sociedade;Grave;Manter distancia de 1,5 metros de outras pessoas.
-Sociedade;Grave;Adotar como prática a etiqueta da tosse.
-Sociedade;Gravíssimo;Ficar em casa a maior parte do tempo.
-Sociedade;Gravíssimo;Não participar ou frequentar locais em que possa haver aglomeração de pessoas.
-Sociedade;Gravíssimo;Evitar viajar e realizar comemorações com a presença de pessoas que não residem em sua casa.
-Sociedade;Gravíssimo; Higienizar as mãos com frequência
-Sociedade;Gravíssimo;Quando possível adiar consultas, exames médicos, cirurgias e outros procedimentos que possam provocar dano a saúde e a ida a locais onde há pessoas potencialmente doentes.
-Sociedade;Gravíssimo;Priorizar serviços de delivery.
-Sociedade;Gravíssimo;Ingerir bastante água e se alimentar de forma saudável.
-Sociedade;Gravíssimo;Utilizar máscara em espaços públicos e espaços privados compartilhados.
-Sociedade;Gravíssimo;Manter distancia de 1,5 metros de outras pessoas.
-Sociedade;Gravíssimo;Adotar como prática a etiqueta da tosse.
-Estabelecimentos;Grave;Procurar testar regularmente colaboradores.
-Estabelecimentos;Grave;Adequar seu o  funcionamento com 50% da capacidade.
-Estabelecimentos;Grave;Priorizar o trabalho remoto principalmente para os trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes e imunodeprimidos. 
-Estabelecimentos;Grave;Adotar regimes de escala, rodízio e/ou novos turnos de trabalho com redução do número de trabalhadores presentes ao mesmo tempo no ambiente.
-Estabelecimentos;Grave;Uso de máscaras pelos funcinários  durante todo o período de funcionamento.
-Estabelecimentos;Grave;Disponibilizar pias com água e sabão ou álcool 70% para higienização das mãos de funcionários e clientes.
-Estabelecimentos;Grave;Higienizar com frequencia equipamentos e utensílios com álcool 70% ou preparações antissépticas respeitando as características do produto.
-Estabelecimentos;Grave;Intensificar higienização dos ambientes com preparações antissépticas ou sanitizantes de efeito similar.
-Estabelecimentos;Grave;Priorizar a ventilação natural dos ambientes.
-Estabelecimentos;Grave;Adaptar seu funcionamento para manter o distanciamento de 1,5m entre as pessoas, sanitização de ambientes e higienização.
-Estabelecimentos;Gravíssimo;Afastar colaboradores confirmados ou suspeitos de COVID19.
-Estabelecimentos;Gravíssimo;Apresentar informativo visível das normas de funcionamento do local para a prevenção de contaminação com COVID19.
-Estabelecimentos;Gravíssimo;Monitorar temperatura corporal de funcionários e clientes e evitar a permanência no ambiente de pessoas com temperatura acima de 37,5º.
-Estabelecimentos;Gravíssimo;Procurar testar regularmente colaboradores.
-Estabelecimentos;Gravíssimo;Adequar o funcionamento de atividades essenciais com a menor quantidade de pessoas possível.
-Estabelecimentos;Gravíssimo;Afastar trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes e imunodeprimidos. 
-Estabelecimentos;Gravíssimo;Adotar regimes de escala, rodízio e/ou novos turnos de trabalho com redução do número de trabalhadores presentes ao mesmo tempo no ambiente de atividades essenciais.
-Estabelecimentos;Gravíssimo;Uso de máscaras pelos funcinários de atividades essenciais durante todo o período de funcionamento.
-Estabelecimentos;Gravíssimo;Disponibilizar pias com água e sabão ou álcool 70% para higienização das mãos de funcionários e clientes nas atividades essenciais.
-Estabelecimentos;Gravíssimo;Higienizar com frequencia equipamentos e utensílios com álcool 70% ou preparações antissépticas respeitando as características do produto nas atividades essenciais.
-Estabelecimentos;Gravíssimo;Intensificar higienização dos ambientes com preparações antissépticas ou sanitizantes de efeito similar nas atividades essenciais.
-Estabelecimentos;Gravíssimo;Priorizar a ventilação natural dos ambientes nas atividades essenciais.
-Estabelecimentos;Gravíssimo;Adaptar seu funcionamento para manter o distanciamento de 1,5m entre as pessoas, sanitização de ambientes e higienização.
-Estabelecimentos;Moderado;Priorizar o trabalho remoto principalmente para os trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes e imunodeprimidos. 
-Estabelecimentos;Moderado;Adotar regimes de escala, rodízio e/ou novos turnos de trabalho com redução do número de trabalhadores presentes ao mesmo tempo no ambiente.
-Estabelecimentos;Moderado;Uso de máscaras pelos funcinários  durante todo o período de funcionamento.
-Estabelecimentos;Moderado;Disponibilizar pias com água e sabão ou álcool 70% para higienização das mãos de funcionários e clientes.
-Estabelecimentos;Moderado;Higienizar com frequencia equipamentos e utensílios com álcool 70% ou preparações antissépticas respeitando as características do produto.
-Estabelecimentos;Moderado;Intensificar higienização dos ambientes com preparações antissépticas ou sanitizantes de efeito similar.
-Estabelecimentos;Moderado;Priorizar a ventilação natural dos ambientes.
-Estabelecimentos;Moderado;Adaptar seu funcionamento para manter o distanciamento de 1,5m entre as pessoas, sanitização de ambientes e higienização.
-Estabelecimentos;Moderado;Afastar colaboradores confirmados ou suspeitos de COVID19.
-Estabelecimentos;Moderado;Apresentar informativo visível das normas de funcionamento do local para a prevenção de contaminação com COVID19.
-Estabelecimentos;Moderado;Monitorar temperatura corporal de funcionários e clientes e evitar a permanência no ambiente de pessoas com temperatura acima de 37,5º.
-Estabelecimentos;Moderado;Procurar testar regularmente colaboradores.
-Estabelecimentos;Moderado;Adequar seu o funcionamento aos cuidados relacionados à COVID19
-Saúde Pública - Hospitais;Moderado;Buscar junto à SES, região de saúde e município disponibilizar leitos de UTI para a regulação na proporção de 1 leito para cada 10 mil habitantes da região de referência.
+Saúde Pública - Hospitais;Moderado;Organizar os Serviço de Urgência e Emergência com fluxo diferenciado para atendimento de pessoas suspeitas e/ou confirmadas para COVID-19.
+Saúde Pública - Hospitais;Moderado;Considerar a PORTARIA SES Nº 342 DE 20/05/2020 para organizar os procedimentos cirúrgicos eletivos.
+Saúde Pública - Hospitais;Moderado;Suspender visitas hospitalares.
+Saúde Pública - Hospitais;Moderado;Realizar procedimentos cirúrgicos eletivos de média complexidade no quantitativo de 50% da capacidade prevista no plano operativo da Unidade Hospitalar.
+Saúde Pública - Hospitais;Moderado;Treinar equipe para paramentação e desparamentação adequada e cuidados com proteção individual.
+Saúde Pública - Hospitais;Moderado;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
+Saúde Pública - Hospitais;Moderado;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
+Saúde Pública - Hospitais;Moderado;Buscar junto à SES, Região de Saúde e Município disponibilizar leitos de UTI para a regulação na proporção de 1 leito para cada 10 mil habitantes da região de referência.
 Saúde Pública - Hospitais;Moderado;Atualizar o CNES colocando no seu cadastro o número de leitos como leitos clínicos adultos e/ou pediátricos SUS para atendimento da COVID19 conforme portaria 246/2020.
-Saúde Pública - Hospitais;Moderado;Disponibilizar leitos clínicos e leitos cirúrgicos para internação clínica para casos suspeitos e/ou confirmados de COVID-19.
 Saúde Pública - Hospitais;Moderado;Respeitar a disponilização de leitos pela Central Estadual de Regulação para o agendamento de cirurgias eletivas
 Saúde Pública - Hospitais;Moderado;Agendar procedimentos cirúrgicos e ambulatoriais eletivos de acordo com normativas da Regulação Estadual a depender da suficiência de leitos.
-Saúde Pública - Hospitais;Moderado;Não realizar procedimentos cirúrgicos eletivos que demandam reserva de leito de UTI, exceto aqueles considerados “tempo-sensíveis”.
 Saúde Pública - Hospitais;Alto;Organizar os Serviço de Urgência e Emergência com fluxo diferenciado para atendimento de pessoas suspeitas e/ou confirmadas para COVID-19.
 Saúde Pública - Hospitais;Alto;Considerar a PORTARIA SES Nº 342 DE 20/05/2020 para organizar os procedimentos cirúrgicos eletivos.
 Saúde Pública - Hospitais;Alto;Suspender visitas hospitalares.
@@ -167,10 +115,8 @@ Saúde Pública - Hospitais;Alto;Treinar equipe para atendimento pessoas suspeitas
 Saúde Pública - Hospitais;Alto;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
 Saúde Pública - Hospitais;Alto;Buscar junto à SES, região de saúde e município disponibilizar leitos de UTI para a regulação na proporção de 2 leitos para cada 10 mil habitantes da região de referência.
 Saúde Pública - Hospitais;Alto;Atualizar o CNES colocando no seu cadastro o número de leitos como leitos clínicos adultos e/ou pediátricos SUS para atendimento da COVID19 conforme portaria 246/2020.
-Saúde Pública - Hospitais;Alto;Disponibilizar leitos clínicos e leitos cirúrgicos para internação clínica para casos suspeitos e/ou confirmados de COVID-19.
 Saúde Pública - Hospitais;Alto;Respeitar a disponilização de leitos pela Central Estadual de Regulação para o agendamento de cirurgias eletivas
 Saúde Pública - Hospitais;Alto;Agendar procedimentos cirúrgicos e ambulatoriais eletivos de acordo com normativas da Regulação Estadual a depender da suficiência de leitos.
-Saúde Pública - Hospitais;Alto;Não realizar procedimentos cirúrgicos eletivos que demandam reserva de leito de UTI, exceto aqueles considerados “tempo-sensíveis”.
 Saúde Pública - Hospitais;Grave;Organizar os Serviço de Urgência e Emergência com fluxo diferenciado para atendimento de pessoas suspeitas e/ou confirmadas para COVID-19.
 Saúde Pública - Hospitais;Grave;Considerar a PORTARIA SES Nº 342 DE 20/05/2020 para organizar os procedimentos cirúrgicos eletivos.
 Saúde Pública - Hospitais;Grave;Suspender visitas hospitalares.
@@ -180,26 +126,42 @@ Saúde Pública - Hospitais;Grave;Treinar equipe para atendimento pessoas suspeita
 Saúde Pública - Hospitais;Grave;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
 Saúde Pública - Hospitais;Grave;Buscar junto à SES, região de saúde e município disponibilizar leitos de UTI para a regulação na proporção de 2,5 leitos para cada 10 mil habitantes da região de referência.
 Saúde Pública - Hospitais;Grave;Atualizar o CNES colocando no seu cadastro o número de leitos como leitos clínicos adultos e/ou pediátricos SUS para atendimento da COVID19 conforme portaria 246/2020.
-Saúde Pública - Hospitais;Grave;Disponibilizar leitos clínicos e leitos cirúrgicos para internação clínica para casos suspeitos e/ou confirmados de COVID-19.
 Saúde Pública - Hospitais;Grave;Respeitar a disponilização de leitos pela Central Estadual de Regulação para o agendamento de cirurgias eletivas
+Saúde Pública - Hospitais;Grave;Reforçar estoque de materiais, EPIs  e medicamentos para assistência aos pacientes COVID-19.
 Saúde Pública - Hospitais;Grave;Agendar procedimentos cirúrgicos e ambulatoriais eletivos de acordo com normativas da Regulação Estadual a depender da suficiência de leitos.
 Saúde Pública - Hospitais;Grave;Não realizar procedimentos cirúrgicos eletivos que demandam reserva de leito de UTI, exceto aqueles considerados “tempo-sensíveis”.
 Saúde Pública - Hospitais;Gravíssimo;Organizar os Serviço de Urgência e Emergência com fluxo diferenciado para atendimento de pessoas suspeitas e/ou confirmadas para COVID-19.
-Saúde Pública - Hospitais;Gravíssimo;Considerar a PORTARIA SES Nº 342 DE 20/05/2020 para organizar os procedimentos cirúrgicos eletivos.
 Saúde Pública - Hospitais;Gravíssimo;Suspender visitas hospitalares.
-Saúde Pública - Hospitais;Gravíssimo;Suspender procedimentos cirúrgicos eletivos.
+Saúde Pública - Hospitais;Gravíssimo;"Suspender procedimentos cirúrgicos eletivos, exceto aqueles  procedimentos considerados ""tempo sensíveis""."
 Saúde Pública - Hospitais;Gravíssimo;Treinar equipe para paramentação e desparamentação adequada e cuidados com proteção individual.
 Saúde Pública - Hospitais;Gravíssimo;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
 Saúde Pública - Hospitais;Gravíssimo;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
 Saúde Pública - Hospitais;Gravíssimo;Buscar junto à SES, região de saúde e município disponibilizar leitos de UTI para a regulação na proporção de 3 leitos para cada 10 mil habitantes da região de referência.
 Saúde Pública - Hospitais;Gravíssimo;Atualizar o CNES colocando no seu cadastro o número de leitos como leitos clínicos adultos e/ou pediátricos SUS para atendimento da COVID19 conforme portaria 246/2020.
 Saúde Pública - Hospitais;Gravíssimo;Disponibilizar leitos clínicos e leitos cirúrgicos para internação clínica para casos suspeitos e/ou confirmados de COVID-19.
-Saúde Pública - Hospitais;Gravíssimo;Agendar procedimentos cirúrgicos e ambulatoriais eletivos de acordo com normativas da Regulação Estadual a depender da suficiência de leitos.
-Saúde Pública - Hospitais;Gravíssimo;Não realizar procedimentos cirúrgicos eletivos que demandam reserva de leito de UTI.
-Saúde Pública - Vigilância Sanitária;Alto;Inspeção sanitária com cunho educativo.
-Saúde Pública - Vigilância Sanitária;Alto;Adoção de medidas sanitárias para estabelecimentos reincidentes quanto ao não acatamento das determinações.
-Saúde Pública - Vigilância Sanitária;Grave;Inspeção saniária e abertura de processo administrativo com apoio das Forças de Segurança Estadual para estabelecimentos uanto ao não acatamento das recomendações.
-Saúde Pública - Vigilância Sanitária;Gravíssimo;Inspeção saniária e abertura de processo administrativo com apoio das Forças de Segurança Estadual para estabelecimentos uanto ao não acatamento das recomendações.
+Saúde Pública - Hospitais;Gravíssimo;Realizar procedimentos  ambulatoriais eletivos de acordo com normativas da Regulação Estadual.
+Saúde Pública - Unidades de Pronto Atendimento;Moderado;Fluxo de atendimento organizado na unidade de saúde de forma a diminuir contato de pessoas suspeitas ou confirmadas para COVID-19 de pessoas não doentes.
+Saúde Pública - Unidades de Pronto Atendimento;Moderado;Treinar equipe para paramentação e desparamentação adequada e cuidados com proteção individual.
+Saúde Pública - Unidades de Pronto Atendimento;Moderado;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
+Saúde Pública - Unidades de Pronto Atendimento;Moderado;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
+Saúde Pública - Unidades de Pronto Atendimento;Alto;Fluxo de atendimento organizado na unidade de saúde de forma a diminuir contato de pessoas suspeitas ou confirmadas para COVID-19 de pessoas não doentes.
+Saúde Pública - Unidades de Pronto Atendimento;Alto;Treinar equipe para paramentação e desparamentação adequada e cuidados com proteção individual.
+Saúde Pública - Unidades de Pronto Atendimento;Alto;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
+Saúde Pública - Unidades de Pronto Atendimento;Alto;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
+Saúde Pública - Unidades de Pronto Atendimento;Grave;Fluxo de atendimento organizado na unidade de saúde de forma a diminuir contato de pessoas suspeitas ou confirmadas para COVID-19 de pessoas não doentes.
+Saúde Pública - Unidades de Pronto Atendimento;Grave;Treinar equipe para paramentação e desparamentação adequada e cuidados com proteção individual.
+Saúde Pública - Unidades de Pronto Atendimento;Grave;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
+Saúde Pública - Unidades de Pronto Atendimento;Grave;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
+Saúde Pública - Unidades de Pronto Atendimento;Grave; Avaliar necessidade de Centro de Triagem para casos suspeitos e ou confirmados a COVID-19.
+Saúde Pública - Unidades de Pronto Atendimento;Grave;Fluxo de atendimento organizado na unidade de saúde de forma a diminuir contato de pessoas suspeitas ou confirmadas para COVID-19 de pessoas não doentes.
+Saúde Pública - Unidades de Pronto Atendimento;Gravissimo;Treinar equipe para paramentação e desparamentação adequada e cuidados com proteção individual.
+Saúde Pública - Unidades de Pronto Atendimento;Gravissimo;Treinar equipe para atendimento pessoas suspeitas ou confirmadas para COVID-19.
+Saúde Pública - Unidades de Pronto Atendimento;Gravissimo;Notificar os casos suspeitos para COVID-19 e comunicar a vigilância epidemiológica municipal.
+Saúde Pública - Unidades de Pronto Atendimento;Gravíssimo;"Organizar Centro de Triagem para casos suspeitos e ou confirmados para a COVID-19;"
+Saúde Pública - Vigilância Epidemiológica;Moderado;Realizar busca ativa de casos suspeitos
+Saúde Pública - Vigilância Epidemiológica;Moderado;Realizar testagem dos casos supeitos de acordo com Nota Técnica vigente
+Saúde Pública - Vigilância Epidemiológica;Moderado;Promover o isolamento de casos suspeitos e contatos
+Saúde Pública - Vigilância Epidemiológica;Moderado;Promover junto ao Município a Notificação de casos e de óbitos, conforme portaria Ministerial de notificação compulsória
 Saúde Pública - Vigilância Epidemiológica;Alto;Realizar busca ativa de casos suspeitos
 Saúde Pública - Vigilância Epidemiológica;Alto;Realizar testagem dos casos supeitos de acordo com Nota Técnica vigente
 Saúde Pública - Vigilância Epidemiológica;Alto;Promover o isolamento de casos suspeitos e contatos
@@ -212,18 +174,6 @@ Saúde Pública - Vigilância Epidemiológica;Gravíssimo;Realizar busca ativa de cas
 Saúde Pública - Vigilância Epidemiológica;Gravíssimo;Realizar testagem dos casos supeitos de acordo com Nota Técnica vigente
 Saúde Pública - Vigilância Epidemiológica;Gravíssimo;Promover o isolamento de casos suspeitos e contatos
 Saúde Pública - Vigilância Epidemiológica;Gravíssimo;Promover junto ao Município a Notificação de casos e de óbitos, conforme portaria Ministerial de notificação compulsória
-Gestão pública;Grave;Veicular informação verdadeiras sobre prevenção e cuidados relacionados ao COVID19.
-Gestão pública;Grave;Fechar, shoppings, galerias, centros comerciais, bares, academias, igrejas e templos religiosos e serviços de alimentação (exceto na modalidade delivery e tele entrega).
-Gestão pública;Grave;Suspender aulas presenciais na rede pública e privada e o  transporte coletivo municipal e intermunicipal 
-Gestão pública;Gravíssimo;Adotar o trabalho remoto na administração pública quando possível.
-Gestão pública;Gravíssimo;Veicular informação verdadeiras sobre prevenção e cuidados relacionados ao COVID19.
-Gestão pública;Gravíssimo;Manter em funcionamento apenas serviços extremamente essenciais com limite de acesso e tempo de uso e adaptados às  normas de distanciamento social, sanitização de ambientes e higienização
-Gestão pública;Gravíssimo;Suspender aulas presenciais na rede pública e privada e o  transporte coletivo municipal e intermunicipal 
-Gestão pública;Gravíssimo;Suspensão das atividades por um período de 14 dias com funcionamento apenas dos serviços essenciais com limite de acesso e tempo, com reavaliações semanais. 
-Gestão pública;Gravíssimo;Adotar controle de pontos de entrada e saída da região.
-Gestão pública;Moderado;Adotar o trabalho remoto na administração pública quando possível.
-Gestão pública;Moderado;Veicular informação verdadeiras sobre prevenção e cuidados relacionados ao COVID19.
-Gestão pública;Moderado;Respeitando o decreto estadual permitir com adaptações aulas presenciais, eventos esportivos, transporte coletivo e outras atividades de forma que atendam as normas de distanciamento social, sanitização de ambientes e higienização.
 Saúde Pública - Vigilância Epidemiológica;Moderado;Acompanhar e investigar notícias e rumores relacionados à COVID-19.
 Saúde Pública - Vigilância Epidemiológica;Moderado;Acompanhar os dados epidemiológicos sobre a circulação do SARS-CoV-2 e outros vírus respiratórios.
 Saúde Pública - Vigilância Epidemiológica;Moderado;Investigar casos e óbitos suspeitos de COVID-19 e notificar nos sistemas oficiais.
@@ -275,3 +225,69 @@ Saúde Pública - Vigilância Epidemiológica;Gravíssimo;Investigar e monitorar surt
 Saúde Pública - Vigilância Epidemiológica;Gravíssimo;Subsidiar a Gestão na execução de medidas preparatórias de contenção e mitigação.
 Saúde Pública - Vigilância Epidemiológica;Gravíssimo;Subsidiar a Gestão no desenvolvimento de estratégias e mecanismos de cooperação entre municípios e estado.
 Saúde Pública - Vigilância Epidemiológica;Gravíssimo;Ampliar a testagem de casos suspeitos e/ou priorizar testagem conforme orientações de Notas Técnicas vigente, de modo que todos os casos graves e óbitos sejam diagnósticados.
+Saúde Pública - Vigilância Sanitária;Moderado;Realizar inpeções sanitárias com cunho educativo e orientar a adaptação dos espaços para atender à necessidade de distanciamento, sanitização e higienização.
+Saúde Pública - Vigilância Sanitária;Alto;Inspeção sanitária com cunho educativo.
+Saúde Pública - Vigilância Sanitária;Alto;Adoção de medidas sanitárias para estabelecimentos reincidentes quanto ao não acatamento das determinações.
+Saúde Pública - Vigilância Sanitária;Grave;Inspeção saniária e abertura de processo administrativo com apoio das Forças de Segurança Estadual para estabelecimentos uanto ao não acatamento das recomendações.
+Saúde Pública - Vigilância Sanitária;Gravíssimo;Inspeção saniária e abertura de processo administrativo com apoio das Forças de Segurança Estadual para estabelecimentos uanto ao não acatamento das recomendações.
+Sociedade;Moderado;Ficar em casa a maior parte do tempo.
+Sociedade;Moderado;Não participar ou frequentar locais em que possa haver aglomeração de pessoas.
+Sociedade;Moderado;Evitar viajar e realizar comemorações com a presença de pessoas que não residem em sua casa.
+Sociedade;Moderado; Higienizar as mãos com frequência
+Sociedade;Moderado;Quando possível adiar consultas, exames médicos, cirurgias e outros procedimentos que possam provocar dano a saúde e a ida a locais onde há pessoas potencialmente doentes.
+Sociedade;Moderado;Priorizar serviços de delivery.
+Sociedade;Moderado; Ingerir bastante água e se alimentar de forma saudável.
+Sociedade;Moderado; Utilizar máscara em espaços públicos e espaços privados compartilhados.
+Sociedade;Moderado;Manter distancia de 1,5 metros de outras pessoas.
+Sociedade;Moderado;Adotar como prática a etiqueta da tosse.
+Sociedade;Alto;Ficar em casa a maior parte do tempo.
+Sociedade;Alto;Não participar ou frequentar locais em que possa haver aglomeração de pessoas.
+Sociedade;Alto;Evitar viajar e realizar comemorações com a presença de pessoas que não residem em sua casa.
+Sociedade;Alto;Higienizar as mãos com frequência
+Sociedade;Alto;Quando possível adiar consultas, exames médicos, cirurgias e outros procedimentos que possam provocar dano a saúde e a ida a locais onde há pessoas potencialmente doentes.
+Sociedade;Alto;Priorizar serviços de delivery.
+Sociedade;Alto;Ingerir bastante água e se alimentar de forma saudável.
+Sociedade;Alto;Utilizar máscara em espaços públicos e espaços privados compartilhados.
+Sociedade;Alto;Manter distancia de 1,5 metros de outras pessoas.
+Sociedade;Alto;Adotar como prática a etiqueta da tosse.
+Sociedade;Grave;Ficar em casa a maior parte do tempo.
+Sociedade;Grave;Não participar ou frequentar locais em que possa haver aglomeração de pessoas.
+Sociedade;Grave;Evitar viajar e realizar comemorações com a presença de pessoas que não residem em sua casa.
+Sociedade;Grave; Higienizar as mãos com frequência
+Sociedade;Grave;Quando possível adiar consultas, exames médicos, cirurgias e outros procedimentos que possam provocar dano a saúde e a ida a locais onde há pessoas potencialmente doentes.
+Sociedade;Grave;Priorizar serviços de delivery.
+Sociedade;Grave;Ingerir bastante água e se alimentar de forma saudável.
+Sociedade;Grave;Utilizar máscara em espaços públicos e espaços privados compartilhados.
+Sociedade;Grave;Manter distancia de 1,5 metros de outras pessoas.
+Sociedade;Grave;Adotar como prática a etiqueta da tosse.
+Sociedade;Gravíssimo;Ficar em casa a maior parte do tempo.
+Sociedade;Gravíssimo;Não participar ou frequentar locais em que possa haver aglomeração de pessoas.
+Sociedade;Gravíssimo;Evitar viajar e realizar comemorações com a presença de pessoas que não residem em sua casa.
+Sociedade;Gravíssimo; Higienizar as mãos com frequência
+Sociedade;Gravíssimo;Quando possível adiar consultas, exames médicos, cirurgias e outros procedimentos que possam provocar dano a saúde e a ida a locais onde há pessoas potencialmente doentes.
+Sociedade;Gravíssimo;Priorizar serviços de delivery.
+Sociedade;Gravíssimo;Ingerir bastante água e se alimentar de forma saudável.
+Sociedade;Gravíssimo;Utilizar máscara em espaços públicos e espaços privados compartilhados.
+Sociedade;Gravíssimo;Manter distancia de 1,5 metros de outras pessoas.
+Sociedade;Gravíssimo;Adotar como prática a etiqueta da tosse.
+Gestão pública;Alto;Veicular informação sobre prevenção e cuidados relacionados ao COVID19.
+Gestão pública;Grave;Desestimular e usar de meios para diminuir qualquer atividade que acarrete em aglomeração de pessoas.
+Gestão pública;Grave;Fiscalizar os estabelecimentos quanto ao cumprimento de medidas e diretrizes para adequação das atividades de modo a evitar a disseminação do COVID19.
+Gestão pública;Grave;Avaliar o risco x benefício da atividade para autorizar o funcionamento no seu território.
+Gestão pública;Grave;Adotar critérios técnico-científicos para autorizar ou suspender atividades que acarretem em incremento do risco sanitário à sua população. 
+Gestão pública;Grave;Veicular informação sobre prevenção e cuidados relacionados ao COVID19.
+Gestão pública;Gravíssimo;Adotar controle de pontos de entrada e saída da região.
+Gestão pública;Gravíssimo;Suspender as atividades que apresentem maior risco para dissemninação da COVID-19 por um período de 14 dias. 
+Gestão pública;Gravíssimo;Desestimular e usar de meios para diminuir qualquer atividade que acarrete em aglomeração de pessoas.
+Gestão pública;Gravíssimo;Fiscalizar os estabelecimentos quanto ao cumprimento de medidas e diretrizes para adequação das atividades de modo a evitar a disseminação do COVID19.
+Gestão pública;Gravíssimo;Avaliar o risco x benefício da atividade para autorizar o funcionamento no seu território.
+Gestão pública;Gravíssimo;Adotar critérios técnico-científicos para autorizar ou suspender atividades que acarretem em incremento do risco sanitário à sua população. 
+Gestão pública;Gravíssimo;Veicular informação sobre prevenção e cuidados relacionados ao COVID19.
+Gestão pública;Moderado;Desestimular e usar de meios para diminuir qualquer atividade que acarrete em aglomeração de pessoas.
+Gestão pública;Moderado;Fiscalizar os estabelecimentos quanto ao cumprimento de medidas e diretrizes para adequação das atividades de modo a evitar a disseminação do COVID19.
+Gestão pública;Moderado;Avaliar o risco x benefício da atividade para autorizar o funcionamento no seu território.
+Gestão pública;Moderado;Adotar critérios técnico-científicos para autorizar ou suspender atividades que acarretem em incremento do risco sanitário à sua população. 
+Gestão pública;Moderado;Veicular informação sobre prevenção e cuidados relacionados ao COVID19.
+Gestão pública;Moderado;Priorizar o trabalho remoto principalmente para os trabalhadores que pertençam aos grupos de risco: idosos, diabéticos, hipertensos, pessoas com insuficiência renal crônica, doenças respiratórias crônicas, doenças cardiovasculares, gestantes, puérperas e imunodeprimidos. 
+Saúde Pública - Hospitais;Gravíssimo;Reforçar estoque de materiais, EPIs  e medicamentos para assistência aos pacientes COVID-19.
+Saúde Pública - Hospitais;Gravíssimo;Reforçar número de profissionais para assistência.
