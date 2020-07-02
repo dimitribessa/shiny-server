@@ -1,401 +1,401 @@
-"semana","reg_saude","medida","score"
-"02/06/2020","Alto Uruguai Catarinense","Isolamento social",4
-"02/06/2020","Alto Uruguai Catarinense","Investigação, testagem e isolamento de casos",4
-"02/06/2020","Alto Uruguai Catarinense","Reorganização dos fluxos assistenciais",2
-"02/06/2020","Alto Uruguai Catarinense","Ampliação de leitos",1
-"02/06/2020","Alto Uruguai Catarinense","mapa",2.75
-"02/06/2020","Alto Vale do Itajaí","Isolamento social",2
-"02/06/2020","Alto Vale do Itajaí","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Alto Vale do Itajaí","Reorganização dos fluxos assistenciais",2
-"02/06/2020","Alto Vale do Itajaí","Ampliação de leitos",4
-"02/06/2020","Alto Vale do Itajaí","mapa",2.25
-"02/06/2020","Alto Vale do Rio do Peixe","Isolamento social",1
-"02/06/2020","Alto Vale do Rio do Peixe","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Alto Vale do Rio do Peixe","Reorganização dos fluxos assistenciais",1
-"02/06/2020","Alto Vale do Rio do Peixe","Ampliação de leitos",3
-"02/06/2020","Alto Vale do Rio do Peixe","mapa",1.5
-"02/06/2020","Carbonífera","Isolamento social",3
-"02/06/2020","Carbonífera","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Carbonífera","Reorganização dos fluxos assistenciais",1
-"02/06/2020","Carbonífera","Ampliação de leitos",3
-"02/06/2020","Carbonífera","mapa",2
-"02/06/2020","Extremo Oeste","Isolamento social",2
-"02/06/2020","Extremo Oeste","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Extremo Oeste","Reorganização dos fluxos assistenciais",4
-"02/06/2020","Extremo Oeste","Ampliação de leitos",1
-"02/06/2020","Extremo Oeste","mapa",2
-"02/06/2020","Extremo Sul Catarinense","Isolamento social",3
-"02/06/2020","Extremo Sul Catarinense","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Extremo Sul Catarinense","Reorganização dos fluxos assistenciais",2
-"02/06/2020","Extremo Sul Catarinense","Ampliação de leitos",3
-"02/06/2020","Extremo Sul Catarinense","mapa",2.25
-"02/06/2020","Foz do Rio Itajaí","Isolamento social",4
-"02/06/2020","Foz do Rio Itajaí","Investigação, testagem e isolamento de casos",2
-"02/06/2020","Foz do Rio Itajaí","Reorganização dos fluxos assistenciais",2
-"02/06/2020","Foz do Rio Itajaí","Ampliação de leitos",3
-"02/06/2020","Foz do Rio Itajaí","mapa",2.75
-"02/06/2020","Grande Florianópolis","Isolamento social",4
-"02/06/2020","Grande Florianópolis","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Grande Florianópolis","Reorganização dos fluxos assistenciais",3
-"02/06/2020","Grande Florianópolis","Ampliação de leitos",1
-"02/06/2020","Grande Florianópolis","mapa",2.25
-"02/06/2020","Laguna","Isolamento social",2
-"02/06/2020","Laguna","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Laguna","Reorganização dos fluxos assistenciais",1
-"02/06/2020","Laguna","Ampliação de leitos",3
-"02/06/2020","Laguna","mapa",1.75
-"02/06/2020","Médio Vale do Itajaí","Isolamento social",3
-"02/06/2020","Médio Vale do Itajaí","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Médio Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"02/06/2020","Médio Vale do Itajaí","Ampliação de leitos",1
-"02/06/2020","Médio Vale do Itajaí","mapa",1.5
-"02/06/2020","Meio Oeste","Isolamento social",1
-"02/06/2020","Meio Oeste","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Meio Oeste","Reorganização dos fluxos assistenciais",2
-"02/06/2020","Meio Oeste","Ampliação de leitos",1
-"02/06/2020","Meio Oeste","mapa",1.25
-"02/06/2020","Nordeste","Isolamento social",3
-"02/06/2020","Nordeste","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Nordeste","Reorganização dos fluxos assistenciais",2
-"02/06/2020","Nordeste","Ampliação de leitos",4
-"02/06/2020","Nordeste","mapa",2.5
-"02/06/2020","Oeste","Isolamento social",3
-"02/06/2020","Oeste","Investigação, testagem e isolamento de casos",2
-"02/06/2020","Oeste","Reorganização dos fluxos assistenciais",1
-"02/06/2020","Oeste","Ampliação de leitos",1
-"02/06/2020","Oeste","mapa",1.75
-"02/06/2020","Planalto Norte","Isolamento social",4
-"02/06/2020","Planalto Norte","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Planalto Norte","Reorganização dos fluxos assistenciais",4
-"02/06/2020","Planalto Norte","Ampliação de leitos",2
-"02/06/2020","Planalto Norte","mapa",2.75
-"02/06/2020","Serra Catarinense","Isolamento social",1
-"02/06/2020","Serra Catarinense","Investigação, testagem e isolamento de casos",1
-"02/06/2020","Serra Catarinense","Reorganização dos fluxos assistenciais",2
-"02/06/2020","Serra Catarinense","Ampliação de leitos",1
-"02/06/2020","Serra Catarinense","mapa",1.25
-"02/06/2020","Xanxerê","Isolamento social",4
-"02/06/2020","Xanxerê","Investigação, testagem e isolamento de casos",3
-"02/06/2020","Xanxerê","Reorganização dos fluxos assistenciais",3
-"02/06/2020","Xanxerê","Ampliação de leitos",2
-"02/06/2020","Xanxerê","mapa",3
-"09/06/2020","Alto Uruguai Catarinense","Isolamento social",3
-"09/06/2020","Alto Vale do Itajaí","Isolamento social",2
-"09/06/2020","Alto Vale do Rio do Peixe","Isolamento social",2
-"09/06/2020","Carbonífera","Isolamento social",3
-"09/06/2020","Extremo Oeste","Isolamento social",2
-"09/06/2020","Extremo Sul Catarinense","Isolamento social",2
-"09/06/2020","Foz do Rio Itajaí","Isolamento social",4
-"09/06/2020","Grande Florianópolis","Isolamento social",4
-"09/06/2020","Laguna","Isolamento social",2
-"09/06/2020","Médio Vale do Itajaí","Isolamento social",3
-"09/06/2020","Meio Oeste","Isolamento social",1
-"09/06/2020","Nordeste","Isolamento social",4
-"09/06/2020","Oeste","Isolamento social",2
-"09/06/2020","Planalto Norte","Isolamento social",4
-"09/06/2020","Serra Catarinense","Isolamento social",2
-"09/06/2020","Xanxerê","Isolamento social",3
-"09/06/2020","Alto Uruguai Catarinense","Investigação, testagem e isolamento de casos",4
-"09/06/2020","Alto Vale do Itajaí","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Alto Vale do Rio do Peixe","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Carbonífera","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Extremo Oeste","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Extremo Sul Catarinense","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Foz do Rio Itajaí","Investigação, testagem e isolamento de casos",2
-"09/06/2020","Grande Florianópolis","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Laguna","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Médio Vale do Itajaí","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Meio Oeste","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Nordeste","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Oeste","Investigação, testagem e isolamento de casos",2
-"09/06/2020","Planalto Norte","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Serra Catarinense","Investigação, testagem e isolamento de casos",1
-"09/06/2020","Xanxerê","Investigação, testagem e isolamento de casos",3
-"09/06/2020","Alto Uruguai Catarinense","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Alto Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Alto Vale do Rio do Peixe","Reorganização dos fluxos assistenciais",2
-"09/06/2020","Carbonífera","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Extremo Oeste","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Extremo Sul Catarinense","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Foz do Rio Itajaí","Reorganização dos fluxos assistenciais",2
-"09/06/2020","Grande Florianópolis","Reorganização dos fluxos assistenciais",3
-"09/06/2020","Laguna","Reorganização dos fluxos assistenciais",2
-"09/06/2020","Médio Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Meio Oeste","Reorganização dos fluxos assistenciais",2
-"09/06/2020","Nordeste","Reorganização dos fluxos assistenciais",2
-"09/06/2020","Oeste","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Planalto Norte","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Serra Catarinense","Reorganização dos fluxos assistenciais",3
-"09/06/2020","Xanxerê","Reorganização dos fluxos assistenciais",1
-"09/06/2020","Alto Uruguai Catarinense","Ampliação de leitos",1
-"09/06/2020","Alto Vale do Itajaí","Ampliação de leitos",3
-"09/06/2020","Alto Vale do Rio do Peixe","Ampliação de leitos",3
-"09/06/2020","Carbonífera","Ampliação de leitos",2
-"09/06/2020","Extremo Oeste","Ampliação de leitos",1
-"09/06/2020","Extremo Sul Catarinense","Ampliação de leitos",3
-"09/06/2020","Foz do Rio Itajaí","Ampliação de leitos",2
-"09/06/2020","Grande Florianópolis","Ampliação de leitos",1
-"09/06/2020","Laguna","Ampliação de leitos",3
-"09/06/2020","Médio Vale do Itajaí","Ampliação de leitos",1
-"09/06/2020","Meio Oeste","Ampliação de leitos",1
-"09/06/2020","Nordeste","Ampliação de leitos",3
-"09/06/2020","Oeste","Ampliação de leitos",1
-"09/06/2020","Planalto Norte","Ampliação de leitos",2
-"09/06/2020","Serra Catarinense","Ampliação de leitos",1
-"09/06/2020","Xanxerê","Ampliação de leitos",2
-"09/06/2020","Alto Uruguai Catarinense","mapa",2.25
-"09/06/2020","Alto Vale do Itajaí","mapa",1.75
-"09/06/2020","Alto Vale do Rio do Peixe","mapa",2
-"09/06/2020","Carbonífera","mapa",1.75
-"09/06/2020","Extremo Oeste","mapa",1.25
-"09/06/2020","Extremo Sul Catarinense","mapa",1.75
-"09/06/2020","Foz do Rio Itajaí","mapa",2.5
-"09/06/2020","Grande Florianópolis","mapa",2.25
-"09/06/2020","Laguna","mapa",2
-"09/06/2020","Médio Vale do Itajaí","mapa",1.5
-"09/06/2020","Meio Oeste","mapa",1.25
-"09/06/2020","Nordeste","mapa",2.5
-"09/06/2020","Oeste","mapa",1.5
-"09/06/2020","Planalto Norte","mapa",2
-"09/06/2020","Serra Catarinense","mapa",1.75
-"09/06/2020","Xanxerê","mapa",2.25
-"16/06/2020","Alto Uruguai Catarinense","Isolamento social",3
-"16/06/2020","Alto Vale do Itajaí","Isolamento social",1
-"16/06/2020","Alto Vale do Rio do Peixe","Isolamento social",2
-"16/06/2020","Carbonífera","Isolamento social",4
-"16/06/2020","Extremo Oeste","Isolamento social",3
-"16/06/2020","Extremo Sul Catarinense","Isolamento social",2
-"16/06/2020","Foz do Rio Itajaí","Isolamento social",4
-"16/06/2020","Grande Florianópolis","Isolamento social",4
-"16/06/2020","Laguna","Isolamento social",3
-"16/06/2020","Médio Vale do Itajaí","Isolamento social",3
-"16/06/2020","Meio Oeste","Isolamento social",2
-"16/06/2020","Nordeste","Isolamento social",4
-"16/06/2020","Oeste","Isolamento social",2
-"16/06/2020","Planalto Norte","Isolamento social",3
-"16/06/2020","Serra Catarinense","Isolamento social",3
-"16/06/2020","Xanxerê","Isolamento social",4
-"16/06/2020","Alto Uruguai Catarinense","Investigação, testagem e isolamento de casos",3
-"16/06/2020","Alto Vale do Itajaí","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Alto Vale do Rio do Peixe","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Carbonífera","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Extremo Oeste","Investigação, testagem e isolamento de casos",2
-"16/06/2020","Extremo Sul Catarinense","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Foz do Rio Itajaí","Investigação, testagem e isolamento de casos",3
-"16/06/2020","Grande Florianópolis","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Laguna","Investigação, testagem e isolamento de casos",2
-"16/06/2020","Médio Vale do Itajaí","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Meio Oeste","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Nordeste","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Oeste","Investigação, testagem e isolamento de casos",2
-"16/06/2020","Planalto Norte","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Serra Catarinense","Investigação, testagem e isolamento de casos",1
-"16/06/2020","Xanxerê","Investigação, testagem e isolamento de casos",3
-"16/06/2020","Alto Uruguai Catarinense","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Alto Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Alto Vale do Rio do Peixe","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Carbonífera","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Extremo Oeste","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Extremo Sul Catarinense","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Foz do Rio Itajaí","Reorganização dos fluxos assistenciais",2
-"16/06/2020","Grande Florianópolis","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Laguna","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Médio Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Meio Oeste","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Nordeste","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Oeste","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Planalto Norte","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Serra Catarinense","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Xanxerê","Reorganização dos fluxos assistenciais",1
-"16/06/2020","Alto Uruguai Catarinense","Ampliação de leitos",1
-"16/06/2020","Alto Vale do Itajaí","Ampliação de leitos",3
-"16/06/2020","Alto Vale do Rio do Peixe","Ampliação de leitos",3
-"16/06/2020","Carbonífera","Ampliação de leitos",2
-"16/06/2020","Extremo Oeste","Ampliação de leitos",1
-"16/06/2020","Extremo Sul Catarinense","Ampliação de leitos",3
-"16/06/2020","Foz do Rio Itajaí","Ampliação de leitos",2
-"16/06/2020","Grande Florianópolis","Ampliação de leitos",1
-"16/06/2020","Laguna","Ampliação de leitos",2
-"16/06/2020","Médio Vale do Itajaí","Ampliação de leitos",1
-"16/06/2020","Meio Oeste","Ampliação de leitos",1
-"16/06/2020","Nordeste","Ampliação de leitos",3
-"16/06/2020","Oeste","Ampliação de leitos",1
-"16/06/2020","Planalto Norte","Ampliação de leitos",2
-"16/06/2020","Serra Catarinense","Ampliação de leitos",1
-"16/06/2020","Xanxerê","Ampliação de leitos",3
-"16/06/2020","Alto Uruguai Catarinense","mapa",2
-"16/06/2020","Alto Vale do Itajaí","mapa",1.5
-"16/06/2020","Alto Vale do Rio do Peixe","mapa",1.75
-"16/06/2020","Carbonífera","mapa",2
-"16/06/2020","Extremo Oeste","mapa",1.75
-"16/06/2020","Extremo Sul Catarinense","mapa",1.75
-"16/06/2020","Foz do Rio Itajaí","mapa",2.75
-"16/06/2020","Grande Florianópolis","mapa",1.75
-"16/06/2020","Laguna","mapa",2
-"16/06/2020","Médio Vale do Itajaí","mapa",1.5
-"16/06/2020","Meio Oeste","mapa",1.25
-"16/06/2020","Nordeste","mapa",2.25
-"16/06/2020","Oeste","mapa",1.5
-"16/06/2020","Planalto Norte","mapa",1.75
-"16/06/2020","Serra Catarinense","mapa",1.5
-"16/06/2020","Xanxerê","mapa",2.75
-"23/06/2020","Alto Uruguai Catarinense","Isolamento social",4
-"23/06/2020","Alto Vale do Itajaí","Isolamento social",3
-"23/06/2020","Alto Vale do Rio do Peixe","Isolamento social",4
-"23/06/2020","Carbonífera","Isolamento social",4
-"23/06/2020","Extremo Oeste","Isolamento social",3
-"23/06/2020","Extremo Sul Catarinense","Isolamento social",2
-"23/06/2020","Foz do Rio Itajaí","Isolamento social",4
-"23/06/2020","Grande Florianópolis","Isolamento social",4
-"23/06/2020","Laguna","Isolamento social",4
-"23/06/2020","Médio Vale do Itajaí","Isolamento social",4
-"23/06/2020","Meio Oeste","Isolamento social",4
-"23/06/2020","Nordeste","Isolamento social",4
-"23/06/2020","Oeste","Isolamento social",4
-"23/06/2020","Planalto Norte","Isolamento social",3
-"23/06/2020","Serra Catarinense","Isolamento social",1
-"23/06/2020","Xanxerê","Isolamento social",4
-"23/06/2020","Alto Uruguai Catarinense","Investigação, testagem e isolamento de casos",4
-"23/06/2020","Alto Vale do Itajaí","Investigação, testagem e isolamento de casos",2
-"23/06/2020","Alto Vale do Rio do Peixe","Investigação, testagem e isolamento de casos",2
-"23/06/2020","Carbonífera","Investigação, testagem e isolamento de casos",2
-"23/06/2020","Extremo Oeste","Investigação, testagem e isolamento de casos",3
-"23/06/2020","Extremo Sul Catarinense","Investigação, testagem e isolamento de casos",3
-"23/06/2020","Foz do Rio Itajaí","Investigação, testagem e isolamento de casos",4
-"23/06/2020","Grande Florianópolis","Investigação, testagem e isolamento de casos",3
-"23/06/2020","Laguna","Investigação, testagem e isolamento de casos",3
-"23/06/2020","Médio Vale do Itajaí","Investigação, testagem e isolamento de casos",3
-"23/06/2020","Meio Oeste","Investigação, testagem e isolamento de casos",3
-"23/06/2020","Nordeste","Investigação, testagem e isolamento de casos",2
-"23/06/2020","Oeste","Investigação, testagem e isolamento de casos",4
-"23/06/2020","Planalto Norte","Investigação, testagem e isolamento de casos",2
-"23/06/2020","Serra Catarinense","Investigação, testagem e isolamento de casos",2
-"23/06/2020","Xanxerê","Investigação, testagem e isolamento de casos",4
-"23/06/2020","Alto Uruguai Catarinense","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Alto Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Alto Vale do Rio do Peixe","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Carbonífera","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Extremo Oeste","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Extremo Sul Catarinense","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Foz do Rio Itajaí","Reorganização dos fluxos assistenciais",3
-"23/06/2020","Grande Florianópolis","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Laguna","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Médio Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Meio Oeste","Reorganização dos fluxos assistenciais",2
-"23/06/2020","Nordeste","Reorganização dos fluxos assistenciais",2
-"23/06/2020","Oeste","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Planalto Norte","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Serra Catarinense","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Xanxerê","Reorganização dos fluxos assistenciais",1
-"23/06/2020","Alto Uruguai Catarinense","Ampliação de leitos",1
-"23/06/2020","Alto Vale do Itajaí","Ampliação de leitos",3
-"23/06/2020","Alto Vale do Rio do Peixe","Ampliação de leitos",3
-"23/06/2020","Carbonífera","Ampliação de leitos",2
-"23/06/2020","Extremo Oeste","Ampliação de leitos",1
-"23/06/2020","Extremo Sul Catarinense","Ampliação de leitos",3
-"23/06/2020","Foz do Rio Itajaí","Ampliação de leitos",2
-"23/06/2020","Grande Florianópolis","Ampliação de leitos",1
-"23/06/2020","Laguna","Ampliação de leitos",1
-"23/06/2020","Médio Vale do Itajaí","Ampliação de leitos",1
-"23/06/2020","Meio Oeste","Ampliação de leitos",1
-"23/06/2020","Nordeste","Ampliação de leitos",3
-"23/06/2020","Oeste","Ampliação de leitos",1
-"23/06/2020","Planalto Norte","Ampliação de leitos",2
-"23/06/2020","Serra Catarinense","Ampliação de leitos",1
-"23/06/2020","Xanxerê","Ampliação de leitos",2
-"23/06/2020","Alto Uruguai Catarinense","mapa",2.5
-"23/06/2020","Alto Vale do Itajaí","mapa",2.25
-"23/06/2020","Alto Vale do Rio do Peixe","mapa",2.5
-"23/06/2020","Carbonífera","mapa",2.25
-"23/06/2020","Extremo Oeste","mapa",2
-"23/06/2020","Extremo Sul Catarinense","mapa",2.25
-"23/06/2020","Foz do Rio Itajaí","mapa",3.25
-"23/06/2020","Grande Florianópolis","mapa",2.25
-"23/06/2020","Laguna","mapa",2.25
-"23/06/2020","Médio Vale do Itajaí","mapa",2.25
-"23/06/2020","Meio Oeste","mapa",2.5
-"23/06/2020","Nordeste","mapa",2.75
-"23/06/2020","Oeste","mapa",2.5
-"23/06/2020","Planalto Norte","mapa",2
-"23/06/2020","Serra Catarinense","mapa",1.25
-"23/06/2020","Xanxerê","mapa",2.75
-"30/06/2020","Alto Uruguai Catarinense","Isolamento social",3
-"30/06/2020","Alto Vale do Itajaí","Isolamento social",4
-"30/06/2020","Alto Vale do Rio do Peixe","Isolamento social",3
-"30/06/2020","Carbonífera","Isolamento social",4
-"30/06/2020","Extremo Oeste","Isolamento social",3
-"30/06/2020","Extremo Sul Catarinense","Isolamento social",3
-"30/06/2020","Foz do Rio Itajaí","Isolamento social",4
-"30/06/2020","Grande Florianópolis","Isolamento social",4
-"30/06/2020","Laguna","Isolamento social",4
-"30/06/2020","Médio Vale do Itajaí","Isolamento social",4
-"30/06/2020","Meio Oeste","Isolamento social",4
-"30/06/2020","Nordeste","Isolamento social",4
-"30/06/2020","Oeste","Isolamento social",4
-"30/06/2020","Planalto Norte","Isolamento social",4
-"30/06/2020","Serra Catarinense","Isolamento social",1
-"30/06/2020","Xanxerê","Isolamento social",4
-"30/06/2020","Alto Uruguai Catarinense","Investigação, testagem e isolamento de casos",4
-"30/06/2020","Alto Vale do Itajaí","Investigação, testagem e isolamento de casos",2
-"30/06/2020","Alto Vale do Rio do Peixe","Investigação, testagem e isolamento de casos",2
-"30/06/2020","Carbonífera","Investigação, testagem e isolamento de casos",2
-"30/06/2020","Extremo Oeste","Investigação, testagem e isolamento de casos",3
-"30/06/2020","Extremo Sul Catarinense","Investigação, testagem e isolamento de casos",2
-"30/06/2020","Foz do Rio Itajaí","Investigação, testagem e isolamento de casos",4
-"30/06/2020","Grande Florianópolis","Investigação, testagem e isolamento de casos",3
-"30/06/2020","Laguna","Investigação, testagem e isolamento de casos",3
-"30/06/2020","Médio Vale do Itajaí","Investigação, testagem e isolamento de casos",3
-"30/06/2020","Meio Oeste","Investigação, testagem e isolamento de casos",3
-"30/06/2020","Nordeste","Investigação, testagem e isolamento de casos",3
-"30/06/2020","Oeste","Investigação, testagem e isolamento de casos",4
-"30/06/2020","Planalto Norte","Investigação, testagem e isolamento de casos",2
-"30/06/2020","Serra Catarinense","Investigação, testagem e isolamento de casos",2
-"30/06/2020","Xanxerê","Investigação, testagem e isolamento de casos",4
-"30/06/2020","Alto Uruguai Catarinense","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Alto Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Alto Vale do Rio do Peixe","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Carbonífera","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Extremo Oeste","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Extremo Sul Catarinense","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Foz do Rio Itajaí","Reorganização dos fluxos assistenciais",2
-"30/06/2020","Grande Florianópolis","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Laguna","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Médio Vale do Itajaí","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Meio Oeste","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Nordeste","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Oeste","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Planalto Norte","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Serra Catarinense","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Xanxerê","Reorganização dos fluxos assistenciais",1
-"30/06/2020","Alto Uruguai Catarinense","Ampliação de leitos",1
-"30/06/2020","Alto Vale do Itajaí","Ampliação de leitos",1
-"30/06/2020","Alto Vale do Rio do Peixe","Ampliação de leitos",2
-"30/06/2020","Carbonífera","Ampliação de leitos",2
-"30/06/2020","Extremo Oeste","Ampliação de leitos",2
-"30/06/2020","Extremo Sul Catarinense","Ampliação de leitos",3
-"30/06/2020","Foz do Rio Itajaí","Ampliação de leitos",3
-"30/06/2020","Grande Florianópolis","Ampliação de leitos",2
-"30/06/2020","Laguna","Ampliação de leitos",2
-"30/06/2020","Médio Vale do Itajaí","Ampliação de leitos",2
-"30/06/2020","Meio Oeste","Ampliação de leitos",2
-"30/06/2020","Nordeste","Ampliação de leitos",2
-"30/06/2020","Oeste","Ampliação de leitos",3
-"30/06/2020","Planalto Norte","Ampliação de leitos",2
-"30/06/2020","Serra Catarinense","Ampliação de leitos",1
-"30/06/2020","Xanxerê","Ampliação de leitos",3
-"30/06/2020","Alto Uruguai Catarinense","mapa",2.25
-"30/06/2020","Alto Vale do Itajaí","mapa",2
-"30/06/2020","Alto Vale do Rio do Peixe","mapa",2
-"30/06/2020","Carbonífera","mapa",2.25
-"30/06/2020","Extremo Oeste","mapa",2.25
-"30/06/2020","Extremo Sul Catarinense","mapa",2.25
-"30/06/2020","Foz do Rio Itajaí","mapa",3.25
-"30/06/2020","Grande Florianópolis","mapa",2.5
-"30/06/2020","Laguna","mapa",2.5
-"30/06/2020","Médio Vale do Itajaí","mapa",2.5
-"30/06/2020","Meio Oeste","mapa",2.5
-"30/06/2020","Nordeste","mapa",2.5
-"30/06/2020","Oeste","mapa",3
-"30/06/2020","Planalto Norte","mapa",2.25
-"30/06/2020","Serra Catarinense","mapa",1.25
-"30/06/2020","Xanxerê","mapa",3
+"semana";"reg_saude";"medida";"score"
+"02/06/2020";"Alto Uruguai Catarinense";"Isolamento social";4
+"02/06/2020";"Alto Uruguai Catarinense";"Investigação, testagem e isolamento de casos";4
+"02/06/2020";"Alto Uruguai Catarinense";"Reorganização dos fluxos assistenciais";2
+"02/06/2020";"Alto Uruguai Catarinense";"Ampliação de leitos";1
+"02/06/2020";"Alto Uruguai Catarinense";"mapa";2.75
+"02/06/2020";"Alto Vale do Itajaí";"Isolamento social";2
+"02/06/2020";"Alto Vale do Itajaí";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Alto Vale do Itajaí";"Reorganização dos fluxos assistenciais";2
+"02/06/2020";"Alto Vale do Itajaí";"Ampliação de leitos";4
+"02/06/2020";"Alto Vale do Itajaí";"mapa";2.25
+"02/06/2020";"Alto Vale do Rio do Peixe";"Isolamento social";1
+"02/06/2020";"Alto Vale do Rio do Peixe";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Alto Vale do Rio do Peixe";"Reorganização dos fluxos assistenciais";1
+"02/06/2020";"Alto Vale do Rio do Peixe";"Ampliação de leitos";3
+"02/06/2020";"Alto Vale do Rio do Peixe";"mapa";1.5
+"02/06/2020";"Carbonífera";"Isolamento social";3
+"02/06/2020";"Carbonífera";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Carbonífera";"Reorganização dos fluxos assistenciais";1
+"02/06/2020";"Carbonífera";"Ampliação de leitos";3
+"02/06/2020";"Carbonífera";"mapa";2
+"02/06/2020";"Extremo Oeste";"Isolamento social";2
+"02/06/2020";"Extremo Oeste";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Extremo Oeste";"Reorganização dos fluxos assistenciais";4
+"02/06/2020";"Extremo Oeste";"Ampliação de leitos";1
+"02/06/2020";"Extremo Oeste";"mapa";2
+"02/06/2020";"Extremo Sul Catarinense";"Isolamento social";3
+"02/06/2020";"Extremo Sul Catarinense";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Extremo Sul Catarinense";"Reorganização dos fluxos assistenciais";2
+"02/06/2020";"Extremo Sul Catarinense";"Ampliação de leitos";3
+"02/06/2020";"Extremo Sul Catarinense";"mapa";2.25
+"02/06/2020";"Foz do Rio Itajaí";"Isolamento social";4
+"02/06/2020";"Foz do Rio Itajaí";"Investigação, testagem e isolamento de casos";2
+"02/06/2020";"Foz do Rio Itajaí";"Reorganização dos fluxos assistenciais";2
+"02/06/2020";"Foz do Rio Itajaí";"Ampliação de leitos";3
+"02/06/2020";"Foz do Rio Itajaí";"mapa";2.75
+"02/06/2020";"Grande Florianópolis";"Isolamento social";4
+"02/06/2020";"Grande Florianópolis";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Grande Florianópolis";"Reorganização dos fluxos assistenciais";3
+"02/06/2020";"Grande Florianópolis";"Ampliação de leitos";1
+"02/06/2020";"Grande Florianópolis";"mapa";2.25
+"02/06/2020";"Laguna";"Isolamento social";2
+"02/06/2020";"Laguna";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Laguna";"Reorganização dos fluxos assistenciais";1
+"02/06/2020";"Laguna";"Ampliação de leitos";3
+"02/06/2020";"Laguna";"mapa";1.75
+"02/06/2020";"Médio Vale do Itajaí";"Isolamento social";3
+"02/06/2020";"Médio Vale do Itajaí";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Médio Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"02/06/2020";"Médio Vale do Itajaí";"Ampliação de leitos";1
+"02/06/2020";"Médio Vale do Itajaí";"mapa";1.5
+"02/06/2020";"Meio Oeste";"Isolamento social";1
+"02/06/2020";"Meio Oeste";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Meio Oeste";"Reorganização dos fluxos assistenciais";2
+"02/06/2020";"Meio Oeste";"Ampliação de leitos";1
+"02/06/2020";"Meio Oeste";"mapa";1.25
+"02/06/2020";"Nordeste";"Isolamento social";3
+"02/06/2020";"Nordeste";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Nordeste";"Reorganização dos fluxos assistenciais";2
+"02/06/2020";"Nordeste";"Ampliação de leitos";4
+"02/06/2020";"Nordeste";"mapa";2.5
+"02/06/2020";"Oeste";"Isolamento social";3
+"02/06/2020";"Oeste";"Investigação, testagem e isolamento de casos";2
+"02/06/2020";"Oeste";"Reorganização dos fluxos assistenciais";1
+"02/06/2020";"Oeste";"Ampliação de leitos";1
+"02/06/2020";"Oeste";"mapa";1.75
+"02/06/2020";"Planalto Norte";"Isolamento social";4
+"02/06/2020";"Planalto Norte";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Planalto Norte";"Reorganização dos fluxos assistenciais";4
+"02/06/2020";"Planalto Norte";"Ampliação de leitos";2
+"02/06/2020";"Planalto Norte";"mapa";2.75
+"02/06/2020";"Serra Catarinense";"Isolamento social";1
+"02/06/2020";"Serra Catarinense";"Investigação, testagem e isolamento de casos";1
+"02/06/2020";"Serra Catarinense";"Reorganização dos fluxos assistenciais";2
+"02/06/2020";"Serra Catarinense";"Ampliação de leitos";1
+"02/06/2020";"Serra Catarinense";"mapa";1.25
+"02/06/2020";"Xanxerê";"Isolamento social";4
+"02/06/2020";"Xanxerê";"Investigação, testagem e isolamento de casos";3
+"02/06/2020";"Xanxerê";"Reorganização dos fluxos assistenciais";3
+"02/06/2020";"Xanxerê";"Ampliação de leitos";2
+"02/06/2020";"Xanxerê";"mapa";3
+"09/06/2020";"Alto Uruguai Catarinense";"Isolamento social";3
+"09/06/2020";"Alto Vale do Itajaí";"Isolamento social";2
+"09/06/2020";"Alto Vale do Rio do Peixe";"Isolamento social";2
+"09/06/2020";"Carbonífera";"Isolamento social";3
+"09/06/2020";"Extremo Oeste";"Isolamento social";2
+"09/06/2020";"Extremo Sul Catarinense";"Isolamento social";2
+"09/06/2020";"Foz do Rio Itajaí";"Isolamento social";4
+"09/06/2020";"Grande Florianópolis";"Isolamento social";4
+"09/06/2020";"Laguna";"Isolamento social";2
+"09/06/2020";"Médio Vale do Itajaí";"Isolamento social";3
+"09/06/2020";"Meio Oeste";"Isolamento social";1
+"09/06/2020";"Nordeste";"Isolamento social";4
+"09/06/2020";"Oeste";"Isolamento social";2
+"09/06/2020";"Planalto Norte";"Isolamento social";4
+"09/06/2020";"Serra Catarinense";"Isolamento social";2
+"09/06/2020";"Xanxerê";"Isolamento social";3
+"09/06/2020";"Alto Uruguai Catarinense";"Investigação, testagem e isolamento de casos";4
+"09/06/2020";"Alto Vale do Itajaí";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Alto Vale do Rio do Peixe";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Carbonífera";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Extremo Oeste";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Extremo Sul Catarinense";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Foz do Rio Itajaí";"Investigação, testagem e isolamento de casos";2
+"09/06/2020";"Grande Florianópolis";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Laguna";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Médio Vale do Itajaí";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Meio Oeste";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Nordeste";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Oeste";"Investigação, testagem e isolamento de casos";2
+"09/06/2020";"Planalto Norte";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Serra Catarinense";"Investigação, testagem e isolamento de casos";1
+"09/06/2020";"Xanxerê";"Investigação, testagem e isolamento de casos";3
+"09/06/2020";"Alto Uruguai Catarinense";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Alto Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Alto Vale do Rio do Peixe";"Reorganização dos fluxos assistenciais";2
+"09/06/2020";"Carbonífera";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Extremo Oeste";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Extremo Sul Catarinense";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Foz do Rio Itajaí";"Reorganização dos fluxos assistenciais";2
+"09/06/2020";"Grande Florianópolis";"Reorganização dos fluxos assistenciais";3
+"09/06/2020";"Laguna";"Reorganização dos fluxos assistenciais";2
+"09/06/2020";"Médio Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Meio Oeste";"Reorganização dos fluxos assistenciais";2
+"09/06/2020";"Nordeste";"Reorganização dos fluxos assistenciais";2
+"09/06/2020";"Oeste";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Planalto Norte";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Serra Catarinense";"Reorganização dos fluxos assistenciais";3
+"09/06/2020";"Xanxerê";"Reorganização dos fluxos assistenciais";1
+"09/06/2020";"Alto Uruguai Catarinense";"Ampliação de leitos";1
+"09/06/2020";"Alto Vale do Itajaí";"Ampliação de leitos";3
+"09/06/2020";"Alto Vale do Rio do Peixe";"Ampliação de leitos";3
+"09/06/2020";"Carbonífera";"Ampliação de leitos";2
+"09/06/2020";"Extremo Oeste";"Ampliação de leitos";1
+"09/06/2020";"Extremo Sul Catarinense";"Ampliação de leitos";3
+"09/06/2020";"Foz do Rio Itajaí";"Ampliação de leitos";2
+"09/06/2020";"Grande Florianópolis";"Ampliação de leitos";1
+"09/06/2020";"Laguna";"Ampliação de leitos";3
+"09/06/2020";"Médio Vale do Itajaí";"Ampliação de leitos";1
+"09/06/2020";"Meio Oeste";"Ampliação de leitos";1
+"09/06/2020";"Nordeste";"Ampliação de leitos";3
+"09/06/2020";"Oeste";"Ampliação de leitos";1
+"09/06/2020";"Planalto Norte";"Ampliação de leitos";2
+"09/06/2020";"Serra Catarinense";"Ampliação de leitos";1
+"09/06/2020";"Xanxerê";"Ampliação de leitos";2
+"09/06/2020";"Alto Uruguai Catarinense";"mapa";2.25
+"09/06/2020";"Alto Vale do Itajaí";"mapa";1.75
+"09/06/2020";"Alto Vale do Rio do Peixe";"mapa";2
+"09/06/2020";"Carbonífera";"mapa";1.75
+"09/06/2020";"Extremo Oeste";"mapa";1.25
+"09/06/2020";"Extremo Sul Catarinense";"mapa";1.75
+"09/06/2020";"Foz do Rio Itajaí";"mapa";2.5
+"09/06/2020";"Grande Florianópolis";"mapa";2.25
+"09/06/2020";"Laguna";"mapa";2
+"09/06/2020";"Médio Vale do Itajaí";"mapa";1.5
+"09/06/2020";"Meio Oeste";"mapa";1.25
+"09/06/2020";"Nordeste";"mapa";2.5
+"09/06/2020";"Oeste";"mapa";1.5
+"09/06/2020";"Planalto Norte";"mapa";2
+"09/06/2020";"Serra Catarinense";"mapa";1.75
+"09/06/2020";"Xanxerê";"mapa";2.25
+"16/06/2020";"Alto Uruguai Catarinense";"Isolamento social";3
+"16/06/2020";"Alto Vale do Itajaí";"Isolamento social";1
+"16/06/2020";"Alto Vale do Rio do Peixe";"Isolamento social";2
+"16/06/2020";"Carbonífera";"Isolamento social";4
+"16/06/2020";"Extremo Oeste";"Isolamento social";3
+"16/06/2020";"Extremo Sul Catarinense";"Isolamento social";2
+"16/06/2020";"Foz do Rio Itajaí";"Isolamento social";4
+"16/06/2020";"Grande Florianópolis";"Isolamento social";4
+"16/06/2020";"Laguna";"Isolamento social";3
+"16/06/2020";"Médio Vale do Itajaí";"Isolamento social";3
+"16/06/2020";"Meio Oeste";"Isolamento social";2
+"16/06/2020";"Nordeste";"Isolamento social";4
+"16/06/2020";"Oeste";"Isolamento social";2
+"16/06/2020";"Planalto Norte";"Isolamento social";3
+"16/06/2020";"Serra Catarinense";"Isolamento social";3
+"16/06/2020";"Xanxerê";"Isolamento social";4
+"16/06/2020";"Alto Uruguai Catarinense";"Investigação, testagem e isolamento de casos";3
+"16/06/2020";"Alto Vale do Itajaí";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Alto Vale do Rio do Peixe";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Carbonífera";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Extremo Oeste";"Investigação, testagem e isolamento de casos";2
+"16/06/2020";"Extremo Sul Catarinense";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Foz do Rio Itajaí";"Investigação, testagem e isolamento de casos";3
+"16/06/2020";"Grande Florianópolis";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Laguna";"Investigação, testagem e isolamento de casos";2
+"16/06/2020";"Médio Vale do Itajaí";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Meio Oeste";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Nordeste";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Oeste";"Investigação, testagem e isolamento de casos";2
+"16/06/2020";"Planalto Norte";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Serra Catarinense";"Investigação, testagem e isolamento de casos";1
+"16/06/2020";"Xanxerê";"Investigação, testagem e isolamento de casos";3
+"16/06/2020";"Alto Uruguai Catarinense";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Alto Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Alto Vale do Rio do Peixe";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Carbonífera";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Extremo Oeste";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Extremo Sul Catarinense";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Foz do Rio Itajaí";"Reorganização dos fluxos assistenciais";2
+"16/06/2020";"Grande Florianópolis";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Laguna";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Médio Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Meio Oeste";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Nordeste";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Oeste";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Planalto Norte";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Serra Catarinense";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Xanxerê";"Reorganização dos fluxos assistenciais";1
+"16/06/2020";"Alto Uruguai Catarinense";"Ampliação de leitos";1
+"16/06/2020";"Alto Vale do Itajaí";"Ampliação de leitos";3
+"16/06/2020";"Alto Vale do Rio do Peixe";"Ampliação de leitos";3
+"16/06/2020";"Carbonífera";"Ampliação de leitos";2
+"16/06/2020";"Extremo Oeste";"Ampliação de leitos";1
+"16/06/2020";"Extremo Sul Catarinense";"Ampliação de leitos";3
+"16/06/2020";"Foz do Rio Itajaí";"Ampliação de leitos";2
+"16/06/2020";"Grande Florianópolis";"Ampliação de leitos";1
+"16/06/2020";"Laguna";"Ampliação de leitos";2
+"16/06/2020";"Médio Vale do Itajaí";"Ampliação de leitos";1
+"16/06/2020";"Meio Oeste";"Ampliação de leitos";1
+"16/06/2020";"Nordeste";"Ampliação de leitos";3
+"16/06/2020";"Oeste";"Ampliação de leitos";1
+"16/06/2020";"Planalto Norte";"Ampliação de leitos";2
+"16/06/2020";"Serra Catarinense";"Ampliação de leitos";1
+"16/06/2020";"Xanxerê";"Ampliação de leitos";3
+"16/06/2020";"Alto Uruguai Catarinense";"mapa";2
+"16/06/2020";"Alto Vale do Itajaí";"mapa";1.5
+"16/06/2020";"Alto Vale do Rio do Peixe";"mapa";1.75
+"16/06/2020";"Carbonífera";"mapa";2
+"16/06/2020";"Extremo Oeste";"mapa";1.75
+"16/06/2020";"Extremo Sul Catarinense";"mapa";1.75
+"16/06/2020";"Foz do Rio Itajaí";"mapa";2.75
+"16/06/2020";"Grande Florianópolis";"mapa";1.75
+"16/06/2020";"Laguna";"mapa";2
+"16/06/2020";"Médio Vale do Itajaí";"mapa";1.5
+"16/06/2020";"Meio Oeste";"mapa";1.25
+"16/06/2020";"Nordeste";"mapa";2.25
+"16/06/2020";"Oeste";"mapa";1.5
+"16/06/2020";"Planalto Norte";"mapa";1.75
+"16/06/2020";"Serra Catarinense";"mapa";1.5
+"16/06/2020";"Xanxerê";"mapa";2.75
+"23/06/2020";"Alto Uruguai Catarinense";"Isolamento social";4
+"23/06/2020";"Alto Vale do Itajaí";"Isolamento social";3
+"23/06/2020";"Alto Vale do Rio do Peixe";"Isolamento social";4
+"23/06/2020";"Carbonífera";"Isolamento social";4
+"23/06/2020";"Extremo Oeste";"Isolamento social";3
+"23/06/2020";"Extremo Sul Catarinense";"Isolamento social";2
+"23/06/2020";"Foz do Rio Itajaí";"Isolamento social";4
+"23/06/2020";"Grande Florianópolis";"Isolamento social";4
+"23/06/2020";"Laguna";"Isolamento social";4
+"23/06/2020";"Médio Vale do Itajaí";"Isolamento social";4
+"23/06/2020";"Meio Oeste";"Isolamento social";4
+"23/06/2020";"Nordeste";"Isolamento social";4
+"23/06/2020";"Oeste";"Isolamento social";4
+"23/06/2020";"Planalto Norte";"Isolamento social";3
+"23/06/2020";"Serra Catarinense";"Isolamento social";1
+"23/06/2020";"Xanxerê";"Isolamento social";4
+"23/06/2020";"Alto Uruguai Catarinense";"Investigação, testagem e isolamento de casos";4
+"23/06/2020";"Alto Vale do Itajaí";"Investigação, testagem e isolamento de casos";2
+"23/06/2020";"Alto Vale do Rio do Peixe";"Investigação, testagem e isolamento de casos";2
+"23/06/2020";"Carbonífera";"Investigação, testagem e isolamento de casos";2
+"23/06/2020";"Extremo Oeste";"Investigação, testagem e isolamento de casos";3
+"23/06/2020";"Extremo Sul Catarinense";"Investigação, testagem e isolamento de casos";3
+"23/06/2020";"Foz do Rio Itajaí";"Investigação, testagem e isolamento de casos";4
+"23/06/2020";"Grande Florianópolis";"Investigação, testagem e isolamento de casos";3
+"23/06/2020";"Laguna";"Investigação, testagem e isolamento de casos";3
+"23/06/2020";"Médio Vale do Itajaí";"Investigação, testagem e isolamento de casos";3
+"23/06/2020";"Meio Oeste";"Investigação, testagem e isolamento de casos";3
+"23/06/2020";"Nordeste";"Investigação, testagem e isolamento de casos";2
+"23/06/2020";"Oeste";"Investigação, testagem e isolamento de casos";4
+"23/06/2020";"Planalto Norte";"Investigação, testagem e isolamento de casos";2
+"23/06/2020";"Serra Catarinense";"Investigação, testagem e isolamento de casos";2
+"23/06/2020";"Xanxerê";"Investigação, testagem e isolamento de casos";4
+"23/06/2020";"Alto Uruguai Catarinense";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Alto Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Alto Vale do Rio do Peixe";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Carbonífera";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Extremo Oeste";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Extremo Sul Catarinense";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Foz do Rio Itajaí";"Reorganização dos fluxos assistenciais";3
+"23/06/2020";"Grande Florianópolis";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Laguna";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Médio Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Meio Oeste";"Reorganização dos fluxos assistenciais";2
+"23/06/2020";"Nordeste";"Reorganização dos fluxos assistenciais";2
+"23/06/2020";"Oeste";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Planalto Norte";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Serra Catarinense";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Xanxerê";"Reorganização dos fluxos assistenciais";1
+"23/06/2020";"Alto Uruguai Catarinense";"Ampliação de leitos";1
+"23/06/2020";"Alto Vale do Itajaí";"Ampliação de leitos";3
+"23/06/2020";"Alto Vale do Rio do Peixe";"Ampliação de leitos";3
+"23/06/2020";"Carbonífera";"Ampliação de leitos";2
+"23/06/2020";"Extremo Oeste";"Ampliação de leitos";1
+"23/06/2020";"Extremo Sul Catarinense";"Ampliação de leitos";3
+"23/06/2020";"Foz do Rio Itajaí";"Ampliação de leitos";2
+"23/06/2020";"Grande Florianópolis";"Ampliação de leitos";1
+"23/06/2020";"Laguna";"Ampliação de leitos";1
+"23/06/2020";"Médio Vale do Itajaí";"Ampliação de leitos";1
+"23/06/2020";"Meio Oeste";"Ampliação de leitos";1
+"23/06/2020";"Nordeste";"Ampliação de leitos";3
+"23/06/2020";"Oeste";"Ampliação de leitos";1
+"23/06/2020";"Planalto Norte";"Ampliação de leitos";2
+"23/06/2020";"Serra Catarinense";"Ampliação de leitos";1
+"23/06/2020";"Xanxerê";"Ampliação de leitos";2
+"23/06/2020";"Alto Uruguai Catarinense";"mapa";2.5
+"23/06/2020";"Alto Vale do Itajaí";"mapa";2.25
+"23/06/2020";"Alto Vale do Rio do Peixe";"mapa";2.5
+"23/06/2020";"Carbonífera";"mapa";2.25
+"23/06/2020";"Extremo Oeste";"mapa";2
+"23/06/2020";"Extremo Sul Catarinense";"mapa";2.25
+"23/06/2020";"Foz do Rio Itajaí";"mapa";3.25
+"23/06/2020";"Grande Florianópolis";"mapa";2.25
+"23/06/2020";"Laguna";"mapa";2.25
+"23/06/2020";"Médio Vale do Itajaí";"mapa";2.25
+"23/06/2020";"Meio Oeste";"mapa";2.5
+"23/06/2020";"Nordeste";"mapa";2.75
+"23/06/2020";"Oeste";"mapa";2.5
+"23/06/2020";"Planalto Norte";"mapa";2
+"23/06/2020";"Serra Catarinense";"mapa";1.25
+"23/06/2020";"Xanxerê";"mapa";2.75
+"30/06/2020";"Alto Uruguai Catarinense";"Isolamento social";3
+"30/06/2020";"Alto Vale do Itajaí";"Isolamento social";4
+"30/06/2020";"Alto Vale do Rio do Peixe";"Isolamento social";3
+"30/06/2020";"Carbonífera";"Isolamento social";4
+"30/06/2020";"Extremo Oeste";"Isolamento social";3
+"30/06/2020";"Extremo Sul Catarinense";"Isolamento social";3
+"30/06/2020";"Foz do Rio Itajaí";"Isolamento social";4
+"30/06/2020";"Grande Florianópolis";"Isolamento social";4
+"30/06/2020";"Laguna";"Isolamento social";4
+"30/06/2020";"Médio Vale do Itajaí";"Isolamento social";4
+"30/06/2020";"Meio Oeste";"Isolamento social";4
+"30/06/2020";"Nordeste";"Isolamento social";4
+"30/06/2020";"Oeste";"Isolamento social";4
+"30/06/2020";"Planalto Norte";"Isolamento social";4
+"30/06/2020";"Serra Catarinense";"Isolamento social";1
+"30/06/2020";"Xanxerê";"Isolamento social";4
+"30/06/2020";"Alto Uruguai Catarinense";"Investigação, testagem e isolamento de casos";4
+"30/06/2020";"Alto Vale do Itajaí";"Investigação, testagem e isolamento de casos";2
+"30/06/2020";"Alto Vale do Rio do Peixe";"Investigação, testagem e isolamento de casos";2
+"30/06/2020";"Carbonífera";"Investigação, testagem e isolamento de casos";2
+"30/06/2020";"Extremo Oeste";"Investigação, testagem e isolamento de casos";3
+"30/06/2020";"Extremo Sul Catarinense";"Investigação, testagem e isolamento de casos";2
+"30/06/2020";"Foz do Rio Itajaí";"Investigação, testagem e isolamento de casos";4
+"30/06/2020";"Grande Florianópolis";"Investigação, testagem e isolamento de casos";3
+"30/06/2020";"Laguna";"Investigação, testagem e isolamento de casos";3
+"30/06/2020";"Médio Vale do Itajaí";"Investigação, testagem e isolamento de casos";3
+"30/06/2020";"Meio Oeste";"Investigação, testagem e isolamento de casos";3
+"30/06/2020";"Nordeste";"Investigação, testagem e isolamento de casos";3
+"30/06/2020";"Oeste";"Investigação, testagem e isolamento de casos";4
+"30/06/2020";"Planalto Norte";"Investigação, testagem e isolamento de casos";2
+"30/06/2020";"Serra Catarinense";"Investigação, testagem e isolamento de casos";2
+"30/06/2020";"Xanxerê";"Investigação, testagem e isolamento de casos";4
+"30/06/2020";"Alto Uruguai Catarinense";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Alto Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Alto Vale do Rio do Peixe";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Carbonífera";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Extremo Oeste";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Extremo Sul Catarinense";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Foz do Rio Itajaí";"Reorganização dos fluxos assistenciais";2
+"30/06/2020";"Grande Florianópolis";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Laguna";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Médio Vale do Itajaí";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Meio Oeste";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Nordeste";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Oeste";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Planalto Norte";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Serra Catarinense";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Xanxerê";"Reorganização dos fluxos assistenciais";1
+"30/06/2020";"Alto Uruguai Catarinense";"Ampliação de leitos";1
+"30/06/2020";"Alto Vale do Itajaí";"Ampliação de leitos";1
+"30/06/2020";"Alto Vale do Rio do Peixe";"Ampliação de leitos";2
+"30/06/2020";"Carbonífera";"Ampliação de leitos";2
+"30/06/2020";"Extremo Oeste";"Ampliação de leitos";2
+"30/06/2020";"Extremo Sul Catarinense";"Ampliação de leitos";3
+"30/06/2020";"Foz do Rio Itajaí";"Ampliação de leitos";3
+"30/06/2020";"Grande Florianópolis";"Ampliação de leitos";2
+"30/06/2020";"Laguna";"Ampliação de leitos";2
+"30/06/2020";"Médio Vale do Itajaí";"Ampliação de leitos";2
+"30/06/2020";"Meio Oeste";"Ampliação de leitos";2
+"30/06/2020";"Nordeste";"Ampliação de leitos";2
+"30/06/2020";"Oeste";"Ampliação de leitos";3
+"30/06/2020";"Planalto Norte";"Ampliação de leitos";2
+"30/06/2020";"Serra Catarinense";"Ampliação de leitos";1
+"30/06/2020";"Xanxerê";"Ampliação de leitos";3
+"30/06/2020";"Alto Uruguai Catarinense";"mapa";2.25
+"30/06/2020";"Alto Vale do Itajaí";"mapa";2
+"30/06/2020";"Alto Vale do Rio do Peixe";"mapa";2
+"30/06/2020";"Carbonífera";"mapa";2.25
+"30/06/2020";"Extremo Oeste";"mapa";2.25
+"30/06/2020";"Extremo Sul Catarinense";"mapa";2.25
+"30/06/2020";"Foz do Rio Itajaí";"mapa";3.25
+"30/06/2020";"Grande Florianópolis";"mapa";2.5
+"30/06/2020";"Laguna";"mapa";2.5
+"30/06/2020";"Médio Vale do Itajaí";"mapa";2.5
+"30/06/2020";"Meio Oeste";"mapa";2.5
+"30/06/2020";"Nordeste";"mapa";2.5
+"30/06/2020";"Oeste";"mapa";3
+"30/06/2020";"Planalto Norte";"mapa";2.25
+"30/06/2020";"Serra Catarinense";"mapa";1.25
+"30/06/2020";"Xanxerê";"mapa";3
