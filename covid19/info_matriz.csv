@@ -1423,17 +1423,17 @@ semana;reg_saude;medida;score
 30/09/2020 (Nova Matriz);Planalto Norte;Capacidade de atenção;3
 30/09/2020 (Nova Matriz);Serra Catarinense;Capacidade de atenção;1
 30/09/2020 (Nova Matriz);Xanxerê;Capacidade de atenção;1
-30/09/2020 (Nova Matriz);Alto Uruguai Catarinense;mapa;2375
-30/09/2020 (Nova Matriz);Alto Vale do Itajaí;mapa;2375
+30/09/2020 (Nova Matriz);Alto Uruguai Catarinense;mapa;2.375
+30/09/2020 (Nova Matriz);Alto Vale do Itajaí;mapa;2.375
 30/09/2020 (Nova Matriz);Alto Vale do Rio do Peixe;mapa;2.25
-30/09/2020 (Nova Matriz);Carbonífera;mapa;2125
+30/09/2020 (Nova Matriz);Carbonífera;mapa;2.125
 30/09/2020 (Nova Matriz);Extremo Oeste;mapa;2.25
-30/09/2020 (Nova Matriz);Extremo Sul Catarinense;mapa;2125
+30/09/2020 (Nova Matriz);Extremo Sul Catarinense;mapa;2.125
 30/09/2020 (Nova Matriz);Foz do Rio Itajaí;mapa;2
-30/09/2020 (Nova Matriz);Grande Florianópolis;mapa;2125
-30/09/2020 (Nova Matriz);Laguna;mapa;2375
-30/09/2020 (Nova Matriz);Médio Vale do Itajaí;mapa;1875
-30/09/2020 (Nova Matriz);Meio Oeste;mapa;2125
+30/09/2020 (Nova Matriz);Grande Florianópolis;mapa;2.125
+30/09/2020 (Nova Matriz);Laguna;mapa;2.375
+30/09/2020 (Nova Matriz);Médio Vale do Itajaí;mapa;1.875
+30/09/2020 (Nova Matriz);Meio Oeste;mapa;2.125
 30/09/2020 (Nova Matriz);Nordeste;mapa;2.5
 30/09/2020 (Nova Matriz);Oeste;mapa;2
 30/09/2020 (Nova Matriz);Planalto Norte;mapa;2.5
@@ -1503,21 +1503,21 @@ semana;reg_saude;medida;score
 07/10/2020;Planalto Norte;Capacidade de atenção;3
 07/10/2020;Serra Catarinense;Capacidade de atenção;0
 07/10/2020;Xanxerê;Capacidade de atenção;0
-07/10/2020;Alto Uruguai Catarinense;mapa;2375
-07/10/2020;Alto Vale do Itajaí;mapa;2125
+07/10/2020;Alto Uruguai Catarinense;mapa;2.375
+07/10/2020;Alto Vale do Itajaí;mapa;2.125
 07/10/2020;Alto Vale do Rio do Peixe;mapa;2.25
-07/10/2020;Carbonífera;mapa;2125
+07/10/2020;Carbonífera;mapa;2.125
 07/10/2020;Extremo Oeste;mapa;2.5
-07/10/2020;Extremo Sul Catarinense;mapa;2125
-07/10/2020;Foz do Rio Itajaí;mapa;2125
+07/10/2020;Extremo Sul Catarinense;mapa;2.125
+07/10/2020;Foz do Rio Itajaí;mapa;2.125
 07/10/2020;Grande Florianópolis;mapa;2.25
 07/10/2020;Laguna;mapa;2.5
-07/10/2020;Médio Vale do Itajaí;mapa;1875
-07/10/2020;Meio Oeste;mapa;2375
+07/10/2020;Médio Vale do Itajaí;mapa;1.875
+07/10/2020;Meio Oeste;mapa;2.375
 07/10/2020;Nordeste;mapa;2.75
 07/10/2020;Oeste;mapa;2
-07/10/2020;Planalto Norte;mapa;2875
-07/10/2020;Serra Catarinense;mapa;1875
+07/10/2020;Planalto Norte;mapa;2.875
+07/10/2020;Serra Catarinense;mapa;1.875
 07/10/2020;Xanxerê;mapa;1.75
 14/10/2020;Alto Uruguai Catarinense;Evento sentinela;2.5
 14/10/2020;Alto Vale do Itajaí;Evento sentinela;2.5
@@ -1585,20 +1585,20 @@ semana;reg_saude;medida;score
 14/10/2020;Xanxerê;Capacidade de atenção;0
 14/10/2020;Alto Uruguai Catarinense;mapa;2.25
 14/10/2020;Alto Vale do Itajaí;mapa;2
-14/10/2020;Alto Vale do Rio do Peixe;mapa;2125
-14/10/2020;Carbonífera;mapa;2125
+14/10/2020;Alto Vale do Rio do Peixe;mapa;2.125
+14/10/2020;Carbonífera;mapa;2.125
 14/10/2020;Extremo Oeste;mapa;2.5
 14/10/2020;Extremo Sul Catarinense;mapa;2.25
-14/10/2020;Foz do Rio Itajaí;mapa;2125
+14/10/2020;Foz do Rio Itajaí;mapa;2.125
 14/10/2020;Grande Florianópolis;mapa;2.25
-14/10/2020;Laguna;mapa;2375
-14/10/2020;Médio Vale do Itajaí;mapa;1875
+14/10/2020;Laguna;mapa;2.375
+14/10/2020;Médio Vale do Itajaí;mapa;1.875
 14/10/2020;Meio Oeste;mapa;2.25
-14/10/2020;Nordeste;mapa;2375
+14/10/2020;Nordeste;mapa;2.375
 14/10/2020;Oeste;mapa;1.75
 14/10/2020;Planalto Norte;mapa;2.25
 14/10/2020;Serra Catarinense;mapa;2.5
-14/10/2020;Xanxerê;mapa;1875
+14/10/2020;Xanxerê;mapa;1.875
 21/10/2020;Alto Uruguai Catarinense;Evento sentinela;1.5
 21/10/2020;Alto Vale do Itajaí;Evento sentinela;1
 21/10/2020;Alto Vale do Rio do Peixe;Evento sentinela;1
@@ -1663,22 +1663,22 @@ semana;reg_saude;medida;score
 21/10/2020;Planalto Norte;Capacidade de atenção;1
 21/10/2020;Serra Catarinense;Capacidade de atenção;0
 21/10/2020;Xanxerê;Capacidade de atenção;1
-21/10/2020;Alto Uruguai Catarinense;mapa;2125
-21/10/2020;Alto Vale do Itajaí;mapa;1875
-21/10/2020;Alto Vale do Rio do Peixe;mapa;1375
-21/10/2020;Carbonífera;mapa;1375
+21/10/2020;Alto Uruguai Catarinense;mapa;2.125
+21/10/2020;Alto Vale do Itajaí;mapa;1.875
+21/10/2020;Alto Vale do Rio do Peixe;mapa;1.375
+21/10/2020;Carbonífera;mapa;1.375
 21/10/2020;Extremo Oeste;mapa;2.25
 21/10/2020;Extremo Sul Catarinense;mapa;2.25
 21/10/2020;Foz do Rio Itajaí;mapa;1.75
 21/10/2020;Grande Florianópolis;mapa;2.25
-21/10/2020;Laguna;mapa;2125
+21/10/2020;Laguna;mapa;2.125
 21/10/2020;Médio Vale do Itajaí;mapa;2
-21/10/2020;Meio Oeste;mapa;1375
+21/10/2020;Meio Oeste;mapa;1.375
 21/10/2020;Nordeste;mapa;1.5
-21/10/2020;Oeste;mapa;1625
-21/10/2020;Planalto Norte;mapa;2375
+21/10/2020;Oeste;mapa;1.625
+21/10/2020;Planalto Norte;mapa;2.375
 21/10/2020;Serra Catarinense;mapa;2
-21/10/2020;Xanxerê;mapa;1625
+21/10/2020;Xanxerê;mapa;1.625
 26/10/2020;Alto Uruguai Catarinense;Evento sentinela;2
 26/10/2020;Alto Vale do Itajaí;Evento sentinela;2.5
 26/10/2020;Alto Vale do Rio do Peixe;Evento sentinela;1
@@ -1745,17 +1745,17 @@ semana;reg_saude;medida;score
 26/10/2020;Xanxerê;Capacidade de atenção;1
 26/10/2020;Alto Uruguai Catarinense;mapa;1.75
 26/10/2020;Alto Vale do Itajaí;mapa;2.5
-26/10/2020;Alto Vale do Rio do Peixe;mapa;1625
-26/10/2020;Carbonífera;mapa;1625
-26/10/2020;Extremo Oeste;mapa;2375
-26/10/2020;Extremo Sul Catarinense;mapa;2375
-26/10/2020;Foz do Rio Itajaí;mapa;2375
-26/10/2020;Grande Florianópolis;mapa;2375
-26/10/2020;Laguna;mapa;2375
+26/10/2020;Alto Vale do Rio do Peixe;mapa;1.625
+26/10/2020;Carbonífera;mapa;1.625
+26/10/2020;Extremo Oeste;mapa;2.375
+26/10/2020;Extremo Sul Catarinense;mapa;2.375
+26/10/2020;Foz do Rio Itajaí;mapa;2.375
+26/10/2020;Grande Florianópolis;mapa;2.375
+26/10/2020;Laguna;mapa;2.375
 26/10/2020;Médio Vale do Itajaí;mapa;2
 26/10/2020;Meio Oeste;mapa;1.75
 26/10/2020;Nordeste;mapa;1.75
-26/10/2020;Oeste;mapa;2125
+26/10/2020;Oeste;mapa;2.125
 26/10/2020;Planalto Norte;mapa;2
 26/10/2020;Serra Catarinense;mapa;2.75
 26/10/2020;Xanxerê;mapa;1.75
@@ -1897,7 +1897,7 @@ semana;reg_saude;medida;score
 11/11/2020;Grande Florianópolis;Capacidade de atenção;3
 11/11/2020;Laguna;Capacidade de atenção;2
 11/11/2020;Médio Vale do Itajaí;Capacidade de atenção;1
-11/11/2020;Meio Oeste;Capacidade de atenção;4
+11/11/2020;Meio Oeste;Capacidade de atenção;1
 11/11/2020;Nordeste;Capacidade de atenção;2
 11/11/2020;Oeste;Capacidade de atenção;4
 11/11/2020;Planalto Norte;Capacidade de atenção;2
@@ -1913,7 +1913,7 @@ semana;reg_saude;medida;score
 11/11/2020;Grande Florianópolis;mapa;3.125
 11/11/2020;Laguna;mapa;2.875
 11/11/2020;Médio Vale do Itajaí;mapa;2.625
-11/11/2020;Meio Oeste;mapa;3.25
+11/11/2020;Meio Oeste;mapa;2.5
 11/11/2020;Nordeste;mapa;2.75
 11/11/2020;Oeste;mapa;2.875
 11/11/2020;Planalto Norte;mapa;3
